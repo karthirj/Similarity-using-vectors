@@ -1,0 +1,88 @@
+------ANIMAL COMPARISONS------
+
+CAT TO CAT: 
+	-Correlation: 1
+	-Cosine Similarity: 1
+	-Euclidean Distance: 0
+	-Jaccard Coefficient: 1
+CAT TO DOG: 
+	-Correlation: 0.99781
+	-Cosine Similarity: 0.99808
+	-Euclidean Distance: 31.37925
+	-Jaccard Coefficient: 0.99603
+CAT TO GIRAFFE: 
+	-Correlation: 0.92953
+	-Cosine Similarity: 0.9382
+	-Euclidean Distance: 187.4236
+	-Jaccard Coefficient: 0.87708
+CAT TO HORSE: 
+	-Correlation: 0.97637
+	-Cosine Similarity: 0.97903
+	-Euclidean Distance: 104.884
+	-Jaccard Coefficient: 0.9576
+
+DOG TO CAT: 
+	-Correlation: 0.99781
+	-Cosine Similarity: 0.99808
+	-Euclidean Distance: 31.37925
+	-Jaccard Coefficient: 0.99603
+DOG TO DOG: 
+	-Correlation: 1
+	-Cosine Similarity: 1
+	-Euclidean Distance: 0
+	-Jaccard Coefficient: 1
+DOG TO GIRAFFE: 
+	-Correlation: 0.9477
+	-Cosine Similarity: 0.95398
+	-Euclidean Distance: 162.74739
+	-Jaccard Coefficient: 0.90684
+DOG TO HORSE: 
+	-Correlation: 0.98577
+	-Cosine Similarity: 0.98726
+	-Euclidean Distance: 81.94512
+	-Jaccard Coefficient: 0.97419
+
+GIRAFFE TO CAT: 
+	-Correlation: 0.92953
+	-Cosine Similarity: 0.9382
+	-Euclidean Distance: 187.4236
+	-Jaccard Coefficient: 0.87708
+GIRAFFE TO DOG: 
+	-Correlation: 0.9477
+	-Cosine Similarity: 0.95398
+	-Euclidean Distance: 162.74739
+	-Jaccard Coefficient: 0.90684
+GIRAFFE TO GIRAFFE: 
+	-Correlation: 1
+	-Cosine Similarity: 1
+	-Euclidean Distance: 0
+	-Jaccard Coefficient: 1
+GIRAFFE TO HORSE: 
+	-Correlation: 0.98427
+	-Cosine Similarity: 0.98649
+	-Euclidean Distance: 90.69912
+	-Jaccard Coefficient: 0.97081
+
+HORSE TO CAT: 
+	-Correlation: 0.97637
+	-Cosine Similarity: 0.97903
+	-Euclidean Distance: 104.884
+	-Jaccard Coefficient: 0.9576
+HORSE TO DOG: 
+	-Correlation: 0.98577
+	-Cosine Similarity: 0.98726
+	-Euclidean Distance: 81.94512
+	-Jaccard Coefficient: 0.97419
+HORSE TO GIRAFFE: 
+	-Correlation: 0.98427
+	-Cosine Similarity: 0.98649
+	-Euclidean Distance: 90.69912
+	-Jaccard Coefficient: 0.97081
+HORSE TO HORSE: 
+	-Correlation: 1
+	-Cosine Similarity: 1
+	-Euclidean Distance: 0
+	-Jaccard Coefficient: 1
+
+
+Total Runtime: 0.177 second(s)

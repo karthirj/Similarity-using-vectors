@@ -1,0 +1,10102 @@
+% make animal run for 100 objects, starting with seed 1
+%
+%                       ------------ A Horse ------------
+% created with 39022
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.01    height
+12.35    radius
+170      texture
+%
+%    LEG1
+9               Natts
+27.00   locX
+ 12.35  locY
+ -30.78 locZ
+ 0.19   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.87    height
+ 2.82    radius
+170      texture
+%
+%    LEG2
+9               Natts
+27.00   locX
+ -12.35 locY
+ -30.78 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.87    height
+ 3.12    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-27.00  locX
+ 12.35  locY
+ -30.78 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.87    height
+ 2.73    radius
+179      texture
+%
+%    LEG4
+9               Natts
+-27.00  locX
+ -12.35 locY
+ -30.78 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.87    height
+ 2.21    radius
+176      texture
+%
+%    NECK
+9               Natts
+31.90   locX
+  0.00  locY
+ 17.24  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.84    height
+ 6.47    radius
+176      texture
+%
+%    HEAD
+9               Natts
+36.80   locX
+  0.00  locY
+ 22.14  locZ
+ 1.00   axisX
+ -0.10  axisY
+  0.00  axisZ
+20.86    height
+ 4.60    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-24.44  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.63  axisY
+ -0.49  axisZ
+29.57    height
+ 1.23    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 6735
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.99    height
+ 6.02    radius
+171      texture
+%
+%    LEG1
+9               Natts
+13.00   locX
+  6.02  locY
+ -12.00 locZ
+ 0.90   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.95    height
+ 0.99    radius
+175      texture
+%
+%    LEG2
+9               Natts
+13.00   locX
+ -6.02  locY
+ -12.00 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.95    height
+ 1.01    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-13.00  locX
+  6.02  locY
+ -12.00 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.95    height
+ 0.83    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-13.00  locX
+ -6.02  locY
+ -12.00 locZ
+ 0.51   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.95    height
+ 0.99    radius
+170      texture
+%
+%    NECK
+9               Natts
+15.73   locX
+  0.00  locY
+  6.02  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.47    height
+ 2.60    radius
+175      texture
+%
+%    HEAD
+9               Natts
+18.47   locX
+  0.00  locY
+  6.02  locZ
+ 1.00   axisX
+ -0.25  axisY
+  0.00  axisZ
+11.85    height
+ 2.95    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-18.94  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.06  axisY
+ -0.37  axisZ
+ 7.05    height
+ 0.31    radius
+176      texture
+%
+%                       ------------ A Dog ------------
+% created with 4081
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.76    height
+ 7.27    radius
+177      texture
+%
+%    LEG1
+9               Natts
+12.38   locX
+  7.27  locY
+ -14.71 locZ
+ 0.95   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.89    height
+ 1.10    radius
+177      texture
+%
+%    LEG2
+9               Natts
+12.38   locX
+ -7.27  locY
+ -14.71 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.89    height
+ 0.93    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-12.38  locX
+  7.27  locY
+ -14.71 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.89    height
+ 0.99    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-12.38  locX
+ -7.27  locY
+ -14.71 locZ
+ 0.30   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.89    height
+ 0.92    radius
+174      texture
+%
+%    NECK
+9               Natts
+15.05   locX
+  0.00  locY
+  7.27  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.35    height
+ 2.56    radius
+177      texture
+%
+%    HEAD
+9               Natts
+17.73   locX
+  0.00  locY
+  7.27  locZ
+ 1.00   axisX
+  0.13  axisY
+  0.00  axisZ
+11.43    height
+ 3.09    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-18.33  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.04  axisY
+ -0.79  axisZ
+ 6.43    height
+ 0.29    radius
+172      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 58658
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+66.67    height
+16.22    radius
+174      texture
+%
+%    LEG1
+9               Natts
+33.34   locX
+ 16.22  locY
+ -46.47 locZ
+ 0.12   axisX
+  0.00  axisY
+ -1.00  axisZ
+60.50    height
+ 2.44    radius
+174      texture
+%
+%    LEG2
+9               Natts
+33.34   locX
+ -16.22 locY
+ -46.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+60.50    height
+ 3.02    radius
+178      texture
+%
+%    LEG3
+9               Natts
+-33.34  locX
+ 16.22  locY
+ -46.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+60.50    height
+ 3.12    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-33.34  locX
+ -16.22 locY
+ -46.47 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+60.50    height
+ 3.05    radius
+177      texture
+%
+%    NECK
+9               Natts
+50.64   locX
+  0.00  locY
+ 33.52  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+48.94    height
+ 6.60    radius
+175      texture
+%
+%    HEAD
+9               Natts
+67.94   locX
+  0.00  locY
+ 50.82  locZ
+ 1.00   axisX
+ -0.14  axisY
+  0.00  axisZ
+19.93    height
+ 4.29    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-44.43  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.11  axisY
+ -0.45  axisZ
+22.24    height
+ 0.71    radius
+176      texture
+%
+%                       ------------ A Dog ------------
+% created with 1742
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+26.75    height
+ 6.32    radius
+175      texture
+%
+%    LEG1
+9               Natts
+13.38   locX
+  6.32  locY
+ -12.07 locZ
+ 0.47   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.51    height
+ 1.01    radius
+175      texture
+%
+%    LEG2
+9               Natts
+13.38   locX
+ -6.32  locY
+ -12.07 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.51    height
+ 0.98    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-13.38  locX
+  6.32  locY
+ -12.07 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.51    height
+ 0.86    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-13.38  locX
+ -6.32  locY
+ -12.07 locZ
+ 0.22   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.51    height
+ 1.11    radius
+175      texture
+%
+%    NECK
+9               Natts
+16.03   locX
+  0.00  locY
+  6.32  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.31    height
+ 2.57    radius
+178      texture
+%
+%    HEAD
+9               Natts
+18.69   locX
+  0.00  locY
+  6.32  locZ
+ 1.00   axisX
+  0.56  axisY
+  0.00  axisZ
+11.22    height
+ 2.90    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-19.80  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.09  axisY
+  0.10  axisZ
+ 6.95    height
+ 0.27    radius
+173      texture
+%
+%                       ------------ A Dog ------------
+% created with 11662
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+26.24    height
+ 6.54    radius
+173      texture
+%
+%    LEG1
+9               Natts
+13.12   locX
+  6.54  locY
+ -13.34 locZ
+ 0.55   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.60    height
+ 1.08    radius
+179      texture
+%
+%    LEG2
+9               Natts
+13.12   locX
+ -6.54  locY
+ -13.34 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.60    height
+ 0.88    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-13.12  locX
+  6.54  locY
+ -13.34 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.60    height
+ 0.97    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-13.12  locX
+ -6.54  locY
+ -13.34 locZ
+ 0.97   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.60    height
+ 1.10    radius
+173      texture
+%
+%    NECK
+9               Natts
+15.67   locX
+  0.00  locY
+  6.54  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.11    height
+ 2.76    radius
+175      texture
+%
+%    HEAD
+9               Natts
+18.23   locX
+  0.00  locY
+  6.54  locZ
+ 1.00   axisX
+  0.03  axisY
+  0.00  axisZ
+11.40    height
+ 2.93    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-19.77  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.08  axisY
+  0.04  axisZ
+ 6.47    height
+ 0.31    radius
+173      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 56480
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+68.51    height
+13.13    radius
+175      texture
+%
+%    LEG1
+9               Natts
+34.25   locX
+ 13.13  locY
+ -45.02 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.77    height
+ 2.97    radius
+174      texture
+%
+%    LEG2
+9               Natts
+34.25   locX
+ -13.13 locY
+ -45.02 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.77    height
+ 2.98    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-34.25  locX
+ 13.13  locY
+ -45.02 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.77    height
+ 2.85    radius
+177      texture
+%
+%    LEG4
+9               Natts
+-34.25  locX
+ -13.13 locY
+ -45.02 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.77    height
+ 2.45    radius
+172      texture
+%
+%    NECK
+9               Natts
+51.63   locX
+  0.00  locY
+ 30.50  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.13    height
+ 6.37    radius
+173      texture
+%
+%    HEAD
+9               Natts
+69.00   locX
+  0.00  locY
+ 47.88  locZ
+ 1.00   axisX
+ -0.00  axisY
+  0.00  axisZ
+19.31    height
+ 4.71    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-45.61  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.22  axisY
+ -0.36  axisZ
+22.89    height
+ 0.70    radius
+170      texture
+%
+%                       ------------ A Dog ------------
+% created with 14972
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+27.99    height
+ 6.53    radius
+174      texture
+%
+%    LEG1
+9               Natts
+13.99   locX
+  6.53  locY
+ -12.89 locZ
+ 0.80   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.71    height
+ 1.12    radius
+174      texture
+%
+%    LEG2
+9               Natts
+13.99   locX
+ -6.53  locY
+ -12.89 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.71    height
+ 1.12    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-13.99  locX
+  6.53  locY
+ -12.89 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.71    height
+ 1.09    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-13.99  locX
+ -6.53  locY
+ -12.89 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.71    height
+ 1.17    radius
+174      texture
+%
+%    NECK
+9               Natts
+16.79   locX
+  0.00  locY
+  6.53  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.60    height
+ 2.57    radius
+174      texture
+%
+%    HEAD
+9               Natts
+19.59   locX
+  0.00  locY
+  6.53  locZ
+ 1.00   axisX
+  0.14  axisY
+  0.00  axisZ
+10.06    height
+ 2.78    radius
+173      texture
+%
+%    TAIL
+9               Natts
+-20.90  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.48  axisY
+  0.10  axisZ
+ 7.09    height
+ 0.35    radius
+177      texture
+%
+%                       ------------ A Dog ------------
+% created with 5501
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+23.67    height
+ 7.15    radius
+174      texture
+%
+%    LEG1
+9               Natts
+11.84   locX
+  7.15  locY
+ -13.18 locZ
+ 0.94   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.05    height
+ 1.02    radius
+174      texture
+%
+%    LEG2
+9               Natts
+11.84   locX
+ -7.15  locY
+ -13.18 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.05    height
+ 1.03    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-11.84  locX
+  7.15  locY
+ -13.18 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.05    height
+ 0.99    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-11.84  locX
+ -7.15  locY
+ -13.18 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.05    height
+ 0.89    radius
+176      texture
+%
+%    NECK
+9               Natts
+14.52   locX
+  0.00  locY
+  7.15  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.36    height
+ 2.82    radius
+170      texture
+%
+%    HEAD
+9               Natts
+17.20   locX
+  0.00  locY
+  7.15  locZ
+ 1.00   axisX
+  0.95  axisY
+  0.00  axisZ
+11.60    height
+ 3.18    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-16.54  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.20  axisY
+  0.65  axisZ
+ 7.14    height
+ 0.30    radius
+175      texture
+%
+%                       ------------ A Cat ------------
+% created with 27284
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+20.04    height
+ 3.49    radius
+173      texture
+%
+%    LEG1
+9               Natts
+10.02   locX
+  3.49  locY
+ -7.16  locZ
+ 0.38   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.34    height
+ 0.61    radius
+171      texture
+%
+%    LEG2
+9               Natts
+10.02   locX
+ -3.49  locY
+ -7.16  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.34    height
+ 0.70    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-10.02  locX
+  3.49  locY
+ -7.16  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.34    height
+ 0.62    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-10.02  locX
+ -3.49  locY
+ -7.16  locZ
+ 0.41   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.34    height
+ 0.52    radius
+174      texture
+%
+%    NECK
+9               Natts
+11.60   locX
+  0.00  locY
+  3.49  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.15    height
+ 1.97    radius
+178      texture
+%
+%    HEAD
+9               Natts
+13.17   locX
+  0.00  locY
+  3.49  locZ
+ 1.00   axisX
+  0.14  axisY
+  0.00  axisZ
+ 3.89    height
+ 1.68    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-6.61   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.10  axisY
+  0.20  axisZ
+13.43    height
+ 0.52    radius
+174      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 65037
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+62.96    height
+15.10    radius
+175      texture
+%
+%    LEG1
+9               Natts
+31.48   locX
+ 15.10  locY
+ -49.48 locZ
+ 0.31   axisX
+  0.00  axisY
+ -1.00  axisZ
+68.76    height
+ 3.69    radius
+173      texture
+%
+%    LEG2
+9               Natts
+31.48   locX
+ -15.10 locY
+ -49.48 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+68.76    height
+ 3.51    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-31.48  locX
+ 15.10  locY
+ -49.48 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+68.76    height
+ 2.71    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-31.48  locX
+ -15.10 locY
+ -49.48 locZ
+ 0.17   axisX
+  0.00  axisY
+ -1.00  axisZ
+68.76    height
+ 3.50    radius
+176      texture
+%
+%    NECK
+9               Natts
+49.50   locX
+  0.00  locY
+ 33.12  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.96    height
+ 7.23    radius
+176      texture
+%
+%    HEAD
+9               Natts
+67.52   locX
+  0.00  locY
+ 51.14  locZ
+ 1.00   axisX
+  0.11  axisY
+  0.00  axisZ
+20.35    height
+ 4.74    radius
+173      texture
+%
+%    TAIL
+9               Natts
+-40.63  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.83  axisY
+ -0.30  axisZ
+22.33    height
+ 0.99    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 45321
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+52.05    height
+11.21    radius
+176      texture
+%
+%    LEG1
+9               Natts
+26.02   locX
+ 11.21  locY
+ -31.60 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.78    height
+ 2.86    radius
+175      texture
+%
+%    LEG2
+9               Natts
+26.02   locX
+ -11.21 locY
+ -31.60 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.78    height
+ 3.19    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-26.02  locX
+ 11.21  locY
+ -31.60 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.78    height
+ 2.37    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-26.02  locX
+ -11.21 locY
+ -31.60 locZ
+ 0.09   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.78    height
+ 2.82    radius
+173      texture
+%
+%    NECK
+9               Natts
+31.05   locX
+  0.00  locY
+ 16.24  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.20    height
+ 6.05    radius
+175      texture
+%
+%    HEAD
+9               Natts
+36.07   locX
+  0.00  locY
+ 21.26  locZ
+ 1.00   axisX
+ -0.05  axisY
+  0.00  axisZ
+19.73    height
+ 4.68    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-22.43  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.07  axisY
+ -0.36  axisZ
+29.61    height
+ 1.61    radius
+170      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 59466
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+69.27    height
+16.46    radius
+179      texture
+%
+%    LEG1
+9               Natts
+34.63   locX
+ 16.46  locY
+ -48.92 locZ
+ 0.20   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.93    height
+ 3.15    radius
+172      texture
+%
+%    LEG2
+9               Natts
+34.63   locX
+ -16.46 locY
+ -48.92 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.93    height
+ 2.43    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-34.63  locX
+ 16.46  locY
+ -48.92 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.93    height
+ 3.06    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-34.63  locX
+ -16.46 locY
+ -48.92 locZ
+ 0.24   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.93    height
+ 2.78    radius
+172      texture
+%
+%    NECK
+9               Natts
+52.38   locX
+  0.00  locY
+ 34.21  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.20    height
+ 5.86    radius
+174      texture
+%
+%    HEAD
+9               Natts
+70.14   locX
+  0.00  locY
+ 51.96  locZ
+ 1.00   axisX
+  0.39  axisY
+  0.00  axisZ
+18.50    height
+ 4.83    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-45.98  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.99  axisY
+ -0.74  axisZ
+23.28    height
+ 0.73    radius
+173      texture
+%
+%                       ------------ A Dog ------------
+% created with 14166
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+23.51    height
+ 6.32    radius
+172      texture
+%
+%    LEG1
+9               Natts
+11.76   locX
+  6.32  locY
+ -12.34 locZ
+ 0.50   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 1.00    radius
+174      texture
+%
+%    LEG2
+9               Natts
+11.76   locX
+ -6.32  locY
+ -12.34 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 0.98    radius
+171      texture
+%
+%    LEG3
+9               Natts
+-11.76  locX
+  6.32  locY
+ -12.34 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 1.04    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-11.76  locX
+ -6.32  locY
+ -12.34 locZ
+ 0.12   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 1.02    radius
+175      texture
+%
+%    NECK
+9               Natts
+14.54   locX
+  0.00  locY
+  6.32  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.56    height
+ 2.57    radius
+175      texture
+%
+%    HEAD
+9               Natts
+17.32   locX
+  0.00  locY
+  6.32  locZ
+ 1.00   axisX
+  0.53  axisY
+  0.00  axisZ
+11.57    height
+ 2.98    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-16.45  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.52  axisY
+  0.02  axisZ
+ 7.07    height
+ 0.29    radius
+177      texture
+%
+%                       ------------ A Cat ------------
+% created with 19063
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+16.57    height
+ 3.47    radius
+172      texture
+%
+%    LEG1
+9               Natts
+ 8.29   locX
+  3.47  locY
+ -6.60  locZ
+ 0.51   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.27    height
+ 0.67    radius
+178      texture
+%
+%    LEG2
+9               Natts
+ 8.29   locX
+ -3.47  locY
+ -6.60  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.27    height
+ 0.58    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-8.29   locX
+  3.47  locY
+ -6.60  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.27    height
+ 0.63    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-8.29   locX
+ -3.47  locY
+ -6.60  locZ
+ 0.59   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.27    height
+ 0.60    radius
+177      texture
+%
+%    NECK
+9               Natts
+ 9.72   locX
+  0.00  locY
+  3.47  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.87    height
+ 2.11    radius
+176      texture
+%
+%    HEAD
+9               Natts
+11.16   locX
+  0.00  locY
+  3.47  locZ
+ 1.00   axisX
+  0.01  axisY
+  0.00  axisZ
+ 4.14    height
+ 2.17    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-2.72   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.20  axisY
+ -0.49  axisZ
+13.85    height
+ 0.51    radius
+177      texture
+%
+%                       ------------ A Dog ------------
+% created with 9357
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+26.36    height
+ 6.04    radius
+173      texture
+%
+%    LEG1
+9               Natts
+13.18   locX
+  6.04  locY
+ -12.28 locZ
+ 0.35   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.47    height
+ 0.98    radius
+172      texture
+%
+%    LEG2
+9               Natts
+13.18   locX
+ -6.04  locY
+ -12.28 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.47    height
+ 0.88    radius
+178      texture
+%
+%    LEG3
+9               Natts
+-13.18  locX
+  6.04  locY
+ -12.28 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.47    height
+ 0.97    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-13.18  locX
+ -6.04  locY
+ -12.28 locZ
+ 0.58   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.47    height
+ 1.03    radius
+174      texture
+%
+%    NECK
+9               Natts
+15.97   locX
+  0.00  locY
+  6.04  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.59    height
+ 2.48    radius
+174      texture
+%
+%    HEAD
+9               Natts
+18.77   locX
+  0.00  locY
+  6.04  locZ
+ 1.00   axisX
+  0.17  axisY
+  0.00  axisZ
+10.64    height
+ 2.94    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-20.11  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.10  axisY
+ -0.36  axisZ
+ 6.25    height
+ 0.24    radius
+175      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 58024
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+68.83    height
+14.38    radius
+174      texture
+%
+%    LEG1
+9               Natts
+34.41   locX
+ 14.38  locY
+ -47.21 locZ
+ 0.10   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.66    height
+ 2.97    radius
+174      texture
+%
+%    LEG2
+9               Natts
+34.41   locX
+ -14.38 locY
+ -47.21 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.66    height
+ 3.56    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-34.41  locX
+ 14.38  locY
+ -47.21 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.66    height
+ 3.37    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-34.41  locX
+ -14.38 locY
+ -47.21 locZ
+ 0.06   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.66    height
+ 2.96    radius
+177      texture
+%
+%    NECK
+9               Natts
+52.31   locX
+  0.00  locY
+ 32.27  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.62    height
+ 7.02    radius
+170      texture
+%
+%    HEAD
+9               Natts
+70.21   locX
+  0.00  locY
+ 50.17  locZ
+ 1.00   axisX
+ -0.03  axisY
+  0.00  axisZ
+19.83    height
+ 4.62    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-46.68  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.20  axisY
+ -0.59  axisZ
+22.14    height
+ 0.87    radius
+176      texture
+%
+%                       ------------ A Cat ------------
+% created with 21842
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+18.52    height
+ 2.63    radius
+174      texture
+%
+%    LEG1
+9               Natts
+ 9.26   locX
+  2.63  locY
+ -5.69  locZ
+ 0.50   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.14    height
+ 0.64    radius
+173      texture
+%
+%    LEG2
+9               Natts
+ 9.26   locX
+ -2.63  locY
+ -5.69  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.14    height
+ 0.57    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-9.26   locX
+  2.63  locY
+ -5.69  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.14    height
+ 0.45    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-9.26   locX
+ -2.63  locY
+ -5.69  locZ
+ 0.67   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.14    height
+ 0.66    radius
+178      texture
+%
+%    NECK
+9               Natts
+10.93   locX
+  0.00  locY
+  2.63  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.34    height
+ 2.13    radius
+174      texture
+%
+%    HEAD
+9               Natts
+12.60   locX
+  0.00  locY
+  2.63  locZ
+ 1.00   axisX
+  0.41  axisY
+  0.00  axisZ
+ 4.54    height
+ 1.56    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-8.41   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.09  axisY
+ -0.08  axisZ
+10.11    height
+ 0.53    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 6017
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.45    height
+ 6.36    radius
+174      texture
+%
+%    LEG1
+9               Natts
+12.23   locX
+  6.36  locY
+ -12.64 locZ
+ 0.36   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.56    height
+ 0.92    radius
+174      texture
+%
+%    LEG2
+9               Natts
+12.23   locX
+ -6.36  locY
+ -12.64 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.56    height
+ 0.96    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-12.23  locX
+  6.36  locY
+ -12.64 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.56    height
+ 1.06    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-12.23  locX
+ -6.36  locY
+ -12.64 locZ
+ 0.64   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.56    height
+ 1.17    radius
+175      texture
+%
+%    NECK
+9               Natts
+14.77   locX
+  0.00  locY
+  6.36  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.09    height
+ 2.44    radius
+178      texture
+%
+%    HEAD
+9               Natts
+17.31   locX
+  0.00  locY
+  6.36  locZ
+ 1.00   axisX
+  0.28  axisY
+  0.00  axisZ
+11.27    height
+ 2.99    radius
+170      texture
+%
+%    TAIL
+9               Natts
+-18.37  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.07  axisY
+ -0.06  axisZ
+ 6.08    height
+ 0.25    radius
+176      texture
+%
+%                       ------------ A Horse ------------
+% created with 46898
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.19    height
+12.56    radius
+175      texture
+%
+%    LEG1
+9               Natts
+27.60   locX
+ 12.56  locY
+ -33.21 locZ
+ 0.11   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.29    height
+ 2.51    radius
+178      texture
+%
+%    LEG2
+9               Natts
+27.60   locX
+ -12.56 locY
+ -33.21 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.29    height
+ 2.63    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-27.60  locX
+ 12.56  locY
+ -33.21 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.29    height
+ 2.46    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-27.60  locX
+ -12.56 locY
+ -33.21 locZ
+ 0.43   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.29    height
+ 2.99    radius
+172      texture
+%
+%    NECK
+9               Natts
+32.59   locX
+  0.00  locY
+ 17.55  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.11    height
+ 5.41    radius
+175      texture
+%
+%    HEAD
+9               Natts
+37.57   locX
+  0.00  locY
+ 22.54  locZ
+ 1.00   axisX
+ -0.01  axisY
+  0.00  axisZ
+20.59    height
+ 4.86    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-28.09  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.04  axisY
+ -0.49  axisZ
+27.11    height
+ 1.27    radius
+175      texture
+%
+%                       ------------ A Horse ------------
+% created with 36346
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.48    height
+11.69    radius
+175      texture
+%
+%    LEG1
+9               Natts
+27.74   locX
+ 11.69  locY
+ -32.36 locZ
+ 0.11   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.35    height
+ 2.80    radius
+177      texture
+%
+%    LEG2
+9               Natts
+27.74   locX
+ -11.69 locY
+ -32.36 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.35    height
+ 2.90    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-27.74  locX
+ 11.69  locY
+ -32.36 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.35    height
+ 3.30    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-27.74  locX
+ -11.69 locY
+ -32.36 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.35    height
+ 2.39    radius
+175      texture
+%
+%    NECK
+9               Natts
+32.67   locX
+  0.00  locY
+ 16.62  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.94    height
+ 5.97    radius
+179      texture
+%
+%    HEAD
+9               Natts
+37.60   locX
+  0.00  locY
+ 21.55  locZ
+ 1.00   axisX
+  0.41  axisY
+  0.00  axisZ
+21.17    height
+ 5.15    radius
+179      texture
+%
+%    TAIL
+9               Natts
+-27.11  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.30  axisY
+ -0.90  axisZ
+28.37    height
+ 1.44    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 37614
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.03    height
+13.87    radius
+171      texture
+%
+%    LEG1
+9               Natts
+27.51   locX
+ 13.87  locY
+ -34.00 locZ
+ 0.23   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.26    height
+ 2.64    radius
+175      texture
+%
+%    LEG2
+9               Natts
+27.51   locX
+ -13.87 locY
+ -34.00 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.26    height
+ 2.97    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-27.51  locX
+ 13.87  locY
+ -34.00 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.26    height
+ 3.29    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-27.51  locX
+ -13.87 locY
+ -34.00 locZ
+ 0.21   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.26    height
+ 2.66    radius
+175      texture
+%
+%    NECK
+9               Natts
+32.68   locX
+  0.00  locY
+ 19.04  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.61    height
+ 5.74    radius
+173      texture
+%
+%    HEAD
+9               Natts
+37.85   locX
+  0.00  locY
+ 24.21  locZ
+ 1.00   axisX
+ -0.14  axisY
+  0.00  axisZ
+21.62    height
+ 4.47    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-23.65  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.06  axisY
+ -0.46  axisZ
+31.38    height
+ 1.35    radius
+172      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 62951
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+64.97    height
+14.69    radius
+171      texture
+%
+%    LEG1
+9               Natts
+32.49   locX
+ 14.69  locY
+ -45.30 locZ
+ 0.21   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.22    height
+ 3.47    radius
+173      texture
+%
+%    LEG2
+9               Natts
+32.49   locX
+ -14.69 locY
+ -45.30 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.22    height
+ 2.69    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-32.49  locX
+ 14.69  locY
+ -45.30 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.22    height
+ 3.16    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-32.49  locX
+ -14.69 locY
+ -45.30 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.22    height
+ 3.44    radius
+171      texture
+%
+%    NECK
+9               Natts
+50.08   locX
+  0.00  locY
+ 32.28  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.77    height
+ 7.29    radius
+171      texture
+%
+%    HEAD
+9               Natts
+67.68   locX
+  0.00  locY
+ 49.88  locZ
+ 1.00   axisX
+  0.36  axisY
+  0.00  axisZ
+19.74    height
+ 5.06    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-41.67  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.33  axisY
+ -0.57  axisZ
+23.30    height
+ 0.81    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 8704
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+23.43    height
+ 6.14    radius
+175      texture
+%
+%    LEG1
+9               Natts
+11.71   locX
+  6.14  locY
+ -13.15 locZ
+ 0.41   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.03    height
+ 0.89    radius
+176      texture
+%
+%    LEG2
+9               Natts
+11.71   locX
+ -6.14  locY
+ -13.15 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.03    height
+ 0.94    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-11.71  locX
+  6.14  locY
+ -13.15 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.03    height
+ 1.02    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-11.71  locX
+ -6.14  locY
+ -13.15 locZ
+ 0.42   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.03    height
+ 1.00    radius
+176      texture
+%
+%    NECK
+9               Natts
+14.46   locX
+  0.00  locY
+  6.14  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.50    height
+ 2.48    radius
+177      texture
+%
+%    HEAD
+9               Natts
+17.21   locX
+  0.00  locY
+  6.14  locZ
+ 1.00   axisX
+ -0.15  axisY
+  0.00  axisZ
+11.68    height
+ 3.28    radius
+178      texture
+%
+%    TAIL
+9               Natts
+-16.35  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.02  axisY
+  0.88  axisZ
+ 7.08    height
+ 0.30    radius
+172      texture
+%
+%                       ------------ A Cat ------------
+% created with 27868
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+18.78    height
+ 3.67    radius
+172      texture
+%
+%    LEG1
+9               Natts
+ 9.39   locX
+  3.67  locY
+ -6.70  locZ
+ 0.02   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.07    height
+ 0.62    radius
+174      texture
+%
+%    LEG2
+9               Natts
+ 9.39   locX
+ -3.67  locY
+ -6.70  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.07    height
+ 0.59    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-9.39   locX
+  3.67  locY
+ -6.70  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.07    height
+ 0.61    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-9.39   locX
+ -3.67  locY
+ -6.70  locZ
+ 0.36   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.07    height
+ 0.58    radius
+175      texture
+%
+%    NECK
+9               Natts
+10.80   locX
+  0.00  locY
+  3.67  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.83    height
+ 1.91    radius
+173      texture
+%
+%    HEAD
+9               Natts
+12.22   locX
+  0.00  locY
+  3.67  locZ
+ 1.00   axisX
+ -0.07  axisY
+  0.00  axisZ
+ 4.09    height
+ 1.97    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-6.39   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.73  axisY
+ -0.20  axisZ
+12.39    height
+ 0.52    radius
+175      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 50657
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+65.00    height
+14.26    radius
+170      texture
+%
+%    LEG1
+9               Natts
+32.50   locX
+ 14.26  locY
+ -47.18 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.84    height
+ 2.91    radius
+177      texture
+%
+%    LEG2
+9               Natts
+32.50   locX
+ -14.26 locY
+ -47.18 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.84    height
+ 3.14    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-32.50  locX
+ 14.26  locY
+ -47.18 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.84    height
+ 2.80    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-32.50  locX
+ -14.26 locY
+ -47.18 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.84    height
+ 3.16    radius
+178      texture
+%
+%    NECK
+9               Natts
+50.34   locX
+  0.00  locY
+ 32.10  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.44    height
+ 7.36    radius
+177      texture
+%
+%    HEAD
+9               Natts
+68.17   locX
+  0.00  locY
+ 49.93  locZ
+ 1.00   axisX
+ -0.03  axisY
+  0.00  axisZ
+20.71    height
+ 3.84    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-41.85  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.09  axisY
+ -0.48  axisZ
+23.16    height
+ 0.72    radius
+175      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 51968
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+67.37    height
+14.52    radius
+175      texture
+%
+%    LEG1
+9               Natts
+33.69   locX
+ 14.52  locY
+ -47.22 locZ
+ 0.35   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.40    height
+ 2.47    radius
+172      texture
+%
+%    LEG2
+9               Natts
+33.69   locX
+ -14.52 locY
+ -47.22 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.40    height
+ 2.80    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-33.69  locX
+ 14.52  locY
+ -47.22 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.40    height
+ 2.97    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-33.69  locX
+ -14.52 locY
+ -47.22 locZ
+ 0.10   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.40    height
+ 3.05    radius
+175      texture
+%
+%    NECK
+9               Natts
+52.33   locX
+  0.00  locY
+ 33.17  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+52.73    height
+ 7.82    radius
+172      texture
+%
+%    HEAD
+9               Natts
+70.98   locX
+  0.00  locY
+ 51.81  locZ
+ 1.00   axisX
+ -0.79  axisY
+  0.00  axisZ
+18.38    height
+ 4.56    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-45.10  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.09  axisY
+ -0.56  axisZ
+22.27    height
+ 0.80    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 46171
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+57.47    height
+11.84    radius
+178      texture
+%
+%    LEG1
+9               Natts
+28.74   locX
+ 11.84  locY
+ -29.94 locZ
+ 0.22   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.20    height
+ 2.74    radius
+176      texture
+%
+%    LEG2
+9               Natts
+28.74   locX
+ -11.84 locY
+ -29.94 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.20    height
+ 2.50    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-28.74  locX
+ 11.84  locY
+ -29.94 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.20    height
+ 2.38    radius
+178      texture
+%
+%    LEG4
+9               Natts
+-28.74  locX
+ -11.84 locY
+ -29.94 locZ
+ 0.49   axisX
+  0.00  axisY
+ -1.00  axisZ
+36.20    height
+ 2.17    radius
+173      texture
+%
+%    NECK
+9               Natts
+33.24   locX
+  0.00  locY
+ 16.34  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+12.74    height
+ 6.12    radius
+175      texture
+%
+%    HEAD
+9               Natts
+37.74   locX
+  0.00  locY
+ 20.85  locZ
+ 1.00   axisX
+ -0.14  axisY
+  0.00  axisZ
+20.53    height
+ 4.17    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-28.44  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.18  axisY
+ -0.36  axisZ
+29.03    height
+ 1.91    radius
+176      texture
+%
+%                       ------------ A Cat ------------
+% created with 27763
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+16.95    height
+ 4.43    radius
+178      texture
+%
+%    LEG1
+9               Natts
+ 8.47   locX
+  4.43  locY
+ -7.24  locZ
+ 0.54   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.62    height
+ 0.65    radius
+175      texture
+%
+%    LEG2
+9               Natts
+ 8.47   locX
+ -4.43  locY
+ -7.24  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.62    height
+ 0.61    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-8.47   locX
+  4.43  locY
+ -7.24  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.62    height
+ 0.50    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-8.47   locX
+ -4.43  locY
+ -7.24  locZ
+ 0.51   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.62    height
+ 0.61    radius
+174      texture
+%
+%    NECK
+9               Natts
+ 9.85   locX
+  0.00  locY
+  4.43  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.76    height
+ 2.02    radius
+175      texture
+%
+%    HEAD
+9               Natts
+11.23   locX
+  0.00  locY
+  4.43  locZ
+ 1.00   axisX
+ -0.57  axisY
+  0.00  axisZ
+ 3.77    height
+ 2.08    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-2.13   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.48  axisY
+ -0.16  axisZ
+14.82    height
+ 0.51    radius
+175      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 62669
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+66.41    height
+14.64    radius
+174      texture
+%
+%    LEG1
+9               Natts
+33.20   locX
+ 14.64  locY
+ -46.49 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.72    height
+ 3.00    radius
+174      texture
+%
+%    LEG2
+9               Natts
+33.20   locX
+ -14.64 locY
+ -46.49 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.72    height
+ 3.41    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-33.20  locX
+ 14.64  locY
+ -46.49 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.72    height
+ 2.82    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-33.20  locX
+ -14.64 locY
+ -46.49 locZ
+ 0.18   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.72    height
+ 3.06    radius
+171      texture
+%
+%    NECK
+9               Natts
+52.05   locX
+  0.00  locY
+ 33.48  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+53.29    height
+ 7.22    radius
+170      texture
+%
+%    HEAD
+9               Natts
+70.89   locX
+  0.00  locY
+ 52.32  locZ
+ 1.00   axisX
+ -0.16  axisY
+  0.00  axisZ
+18.67    height
+ 4.56    radius
+173      texture
+%
+%    TAIL
+9               Natts
+-43.90  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.41  axisY
+ -0.67  axisZ
+22.51    height
+ 0.75    radius
+175      texture
+%
+%                       ------------ A Dog ------------
+% created with 14750
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.52    height
+ 6.50    radius
+176      texture
+%
+%    LEG1
+9               Natts
+12.76   locX
+  6.50  locY
+ -12.66 locZ
+ 0.15   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.33    height
+ 1.02    radius
+176      texture
+%
+%    LEG2
+9               Natts
+12.76   locX
+ -6.50  locY
+ -12.66 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.33    height
+ 0.96    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-12.76  locX
+  6.50  locY
+ -12.66 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.33    height
+ 1.02    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-12.76  locX
+ -6.50  locY
+ -12.66 locZ
+ 0.46   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.33    height
+ 1.03    radius
+175      texture
+%
+%    NECK
+9               Natts
+15.56   locX
+  0.00  locY
+  6.50  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.59    height
+ 2.39    radius
+175      texture
+%
+%    HEAD
+9               Natts
+18.35   locX
+  0.00  locY
+  6.50  locZ
+ 1.00   axisX
+  0.05  axisY
+  0.00  axisZ
+12.47    height
+ 3.03    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-18.50  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.08  axisY
+ -0.38  axisZ
+ 7.02    height
+ 0.28    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 4683
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.45    height
+ 6.34    radius
+175      texture
+%
+%    LEG1
+9               Natts
+12.73   locX
+  6.34  locY
+ -12.35 locZ
+ 0.50   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.02    height
+ 0.89    radius
+174      texture
+%
+%    LEG2
+9               Natts
+12.73   locX
+ -6.34  locY
+ -12.35 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.02    height
+ 0.86    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-12.73  locX
+  6.34  locY
+ -12.35 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.02    height
+ 1.03    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-12.73  locX
+ -6.34  locY
+ -12.35 locZ
+ 0.51   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.02    height
+ 1.06    radius
+175      texture
+%
+%    NECK
+9               Natts
+15.46   locX
+  0.00  locY
+  6.34  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.46    height
+ 2.71    radius
+175      texture
+%
+%    HEAD
+9               Natts
+18.19   locX
+  0.00  locY
+  6.34  locZ
+ 1.00   axisX
+ -0.12  axisY
+  0.00  axisZ
+11.63    height
+ 2.95    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-17.90  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.29  axisY
+  0.15  axisZ
+ 7.56    height
+ 0.35    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 16004
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+23.69    height
+ 6.40    radius
+174      texture
+%
+%    LEG1
+9               Natts
+11.85   locX
+  6.40  locY
+ -12.65 locZ
+ 0.60   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.50    height
+ 1.09    radius
+177      texture
+%
+%    LEG2
+9               Natts
+11.85   locX
+ -6.40  locY
+ -12.65 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.50    height
+ 1.01    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-11.85  locX
+  6.40  locY
+ -12.65 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.50    height
+ 0.99    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-11.85  locX
+ -6.40  locY
+ -12.65 locZ
+ 0.46   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.50    height
+ 0.97    radius
+178      texture
+%
+%    NECK
+9               Natts
+14.49   locX
+  0.00  locY
+  6.40  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.30    height
+ 2.56    radius
+178      texture
+%
+%    HEAD
+9               Natts
+17.14   locX
+  0.00  locY
+  6.40  locZ
+ 1.00   axisX
+ -0.06  axisY
+  0.00  axisZ
+11.29    height
+ 3.14    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-16.50  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.01  axisY
+  0.32  axisZ
+ 7.19    height
+ 0.24    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 44729
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.06    height
+12.39    radius
+170      texture
+%
+%    LEG1
+9               Natts
+27.03   locX
+ 12.39  locY
+ -32.02 locZ
+ 0.11   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.25    height
+ 2.33    radius
+176      texture
+%
+%    LEG2
+9               Natts
+27.03   locX
+ -12.39 locY
+ -32.02 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.25    height
+ 3.17    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-27.03  locX
+ 12.39  locY
+ -32.02 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.25    height
+ 2.37    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-27.03  locX
+ -12.39 locY
+ -32.02 locZ
+ 0.31   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.25    height
+ 2.48    radius
+170      texture
+%
+%    NECK
+9               Natts
+31.89   locX
+  0.00  locY
+ 17.25  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.74    height
+ 5.55    radius
+174      texture
+%
+%    HEAD
+9               Natts
+36.75   locX
+  0.00  locY
+ 22.11  locZ
+ 1.00   axisX
+ -0.34  axisY
+  0.00  axisZ
+21.11    height
+ 4.89    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-21.94  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.03  axisY
+ -0.46  axisZ
+32.12    height
+ 1.47    radius
+171      texture
+%
+%                       ------------ A Horse ------------
+% created with 35439
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+56.22    height
+12.68    radius
+174      texture
+%
+%    LEG1
+9               Natts
+28.11   locX
+ 12.68  locY
+ -32.86 locZ
+ 0.28   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.38    height
+ 3.11    radius
+175      texture
+%
+%    LEG2
+9               Natts
+28.11   locX
+ -12.68 locY
+ -32.86 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.38    height
+ 2.67    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-28.11  locX
+ 12.68  locY
+ -32.86 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.38    height
+ 3.15    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-28.11  locX
+ -12.68 locY
+ -32.86 locZ
+ 0.16   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.38    height
+ 3.29    radius
+174      texture
+%
+%    NECK
+9               Natts
+33.02   locX
+  0.00  locY
+ 17.58  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.88    height
+ 6.16    radius
+173      texture
+%
+%    HEAD
+9               Natts
+37.93   locX
+  0.00  locY
+ 22.49  locZ
+ 1.00   axisX
+  0.19  axisY
+  0.00  axisZ
+20.17    height
+ 5.01    radius
+173      texture
+%
+%    TAIL
+9               Natts
+-29.18  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.17  axisY
+ -0.67  axisZ
+27.05    height
+ 1.55    radius
+170      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 49623
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+68.62    height
+14.40    radius
+174      texture
+%
+%    LEG1
+9               Natts
+34.31   locX
+ 14.40  locY
+ -46.89 locZ
+ 0.18   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.98    height
+ 3.13    radius
+175      texture
+%
+%    LEG2
+9               Natts
+34.31   locX
+ -14.40 locY
+ -46.89 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.98    height
+ 2.97    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-34.31  locX
+ 14.40  locY
+ -46.89 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.98    height
+ 3.51    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-34.31  locX
+ -14.40 locY
+ -46.89 locZ
+ 0.22   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.98    height
+ 2.84    radius
+177      texture
+%
+%    NECK
+9               Natts
+52.49   locX
+  0.00  locY
+ 32.58  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+51.41    height
+ 6.45    radius
+174      texture
+%
+%    HEAD
+9               Natts
+70.67   locX
+  0.00  locY
+ 50.76  locZ
+ 1.00   axisX
+ -0.22  axisY
+  0.00  axisZ
+19.75    height
+ 4.21    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-48.29  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.02  axisY
+ -0.51  axisZ
+20.32    height
+ 0.56    radius
+176      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 52291
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+68.18    height
+14.50    radius
+171      texture
+%
+%    LEG1
+9               Natts
+34.09   locX
+ 14.50  locY
+ -46.65 locZ
+ 0.35   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.32    height
+ 3.32    radius
+174      texture
+%
+%    LEG2
+9               Natts
+34.09   locX
+ -14.50 locY
+ -46.65 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.32    height
+ 2.50    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-34.09  locX
+ 14.50  locY
+ -46.65 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.32    height
+ 3.04    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-34.09  locX
+ -14.50 locY
+ -46.65 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.32    height
+ 3.38    radius
+173      texture
+%
+%    NECK
+9               Natts
+51.63   locX
+  0.00  locY
+ 32.04  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.61    height
+ 8.03    radius
+173      texture
+%
+%    HEAD
+9               Natts
+69.17   locX
+  0.00  locY
+ 49.58  locZ
+ 1.00   axisX
+ -0.06  axisY
+  0.00  axisZ
+19.03    height
+ 5.15    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-45.59  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.35  axisY
+ -0.60  axisZ
+22.59    height
+ 0.73    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 48542
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+56.35    height
+12.16    radius
+174      texture
+%
+%    LEG1
+9               Natts
+28.17   locX
+ 12.16  locY
+ -30.82 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.31    height
+ 2.70    radius
+174      texture
+%
+%    LEG2
+9               Natts
+28.17   locX
+ -12.16 locY
+ -30.82 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.31    height
+ 2.85    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-28.17  locX
+ 12.16  locY
+ -30.82 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.31    height
+ 3.46    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-28.17  locX
+ -12.16 locY
+ -30.82 locZ
+ 0.16   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.31    height
+ 2.39    radius
+170      texture
+%
+%    NECK
+9               Natts
+33.80   locX
+  0.00  locY
+ 17.79  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+15.92    height
+ 6.29    radius
+176      texture
+%
+%    HEAD
+9               Natts
+39.43   locX
+  0.00  locY
+ 23.42  locZ
+ 1.00   axisX
+  0.08  axisY
+  0.00  axisZ
+18.97    height
+ 4.64    radius
+178      texture
+%
+%    TAIL
+9               Natts
+-24.86  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.19  axisY
+ -0.41  axisZ
+31.49    height
+ 1.59    radius
+177      texture
+%
+%                       ------------ A Cat ------------
+% created with 31776
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+16.98    height
+ 3.32    radius
+175      texture
+%
+%    LEG1
+9               Natts
+ 8.49   locX
+  3.32  locY
+ -6.80  locZ
+ 0.50   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.97    height
+ 0.59    radius
+174      texture
+%
+%    LEG2
+9               Natts
+ 8.49   locX
+ -3.32  locY
+ -6.80  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.97    height
+ 0.53    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-8.49   locX
+  3.32  locY
+ -6.80  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.97    height
+ 0.49    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-8.49   locX
+ -3.32  locY
+ -6.80  locZ
+ 0.55   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.97    height
+ 0.56    radius
+175      texture
+%
+%    NECK
+9               Natts
+ 9.92   locX
+  0.00  locY
+  3.32  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.87    height
+ 1.97    radius
+176      texture
+%
+%    HEAD
+9               Natts
+11.35   locX
+  0.00  locY
+  3.32  locZ
+ 1.00   axisX
+  0.38  axisY
+  0.00  axisZ
+ 3.75    height
+ 2.13    radius
+175      texture
+%
+%    TAIL
+9               Natts
+ 0.22   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.53  axisY
+ -0.20  axisZ
+17.20    height
+ 0.59    radius
+172      texture
+%
+%                       ------------ A Horse ------------
+% created with 36126
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+56.53    height
+13.12    radius
+176      texture
+%
+%    LEG1
+9               Natts
+28.27   locX
+ 13.12  locY
+ -33.63 locZ
+ 0.01   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.02    height
+ 3.00    radius
+178      texture
+%
+%    LEG2
+9               Natts
+28.27   locX
+ -13.12 locY
+ -33.63 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.02    height
+ 2.40    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-28.27  locX
+ 13.12  locY
+ -33.63 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.02    height
+ 2.72    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-28.27  locX
+ -13.12 locY
+ -33.63 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.02    height
+ 2.43    radius
+175      texture
+%
+%    NECK
+9               Natts
+33.44   locX
+  0.00  locY
+ 18.29  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.64    height
+ 6.37    radius
+176      texture
+%
+%    HEAD
+9               Natts
+38.62   locX
+  0.00  locY
+ 23.47  locZ
+ 1.00   axisX
+ -0.67  axisY
+  0.00  axisZ
+18.84    height
+ 5.08    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-27.07  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.83  axisY
+ -0.33  axisZ
+29.46    height
+ 1.58    radius
+175      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 62782
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+62.05    height
+14.52    radius
+174      texture
+%
+%    LEG1
+9               Natts
+31.02   locX
+ 14.52  locY
+ -46.82 locZ
+ 0.28   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.60    height
+ 3.47    radius
+174      texture
+%
+%    LEG2
+9               Natts
+31.02   locX
+ -14.52 locY
+ -46.82 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.60    height
+ 2.16    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-31.02  locX
+ 14.52  locY
+ -46.82 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.60    height
+ 2.95    radius
+171      texture
+%
+%    LEG4
+9               Natts
+-31.02  locX
+ -14.52 locY
+ -46.82 locZ
+ 0.22   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.60    height
+ 3.07    radius
+177      texture
+%
+%    NECK
+9               Natts
+47.70   locX
+  0.00  locY
+ 31.20  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+47.17    height
+ 5.82    radius
+175      texture
+%
+%    HEAD
+9               Natts
+64.38   locX
+  0.00  locY
+ 47.88  locZ
+ 1.00   axisX
+  0.16  axisY
+  0.00  axisZ
+19.98    height
+ 4.67    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-38.62  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.15  axisY
+ -0.48  axisZ
+23.42    height
+ 0.63    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 41145
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+56.91    height
+12.66    radius
+174      texture
+%
+%    LEG1
+9               Natts
+28.45   locX
+ 12.66  locY
+ -33.70 locZ
+ 0.12   axisX
+  0.00  axisY
+ -1.00  axisZ
+42.07    height
+ 2.33    radius
+172      texture
+%
+%    LEG2
+9               Natts
+28.45   locX
+ -12.66 locY
+ -33.70 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+42.07    height
+ 2.40    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-28.45  locX
+ 12.66  locY
+ -33.70 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+42.07    height
+ 3.10    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-28.45  locX
+ -12.66 locY
+ -33.70 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+42.07    height
+ 2.67    radius
+176      texture
+%
+%    NECK
+9               Natts
+33.44   locX
+  0.00  locY
+ 17.65  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.09    height
+ 6.79    radius
+175      texture
+%
+%    HEAD
+9               Natts
+38.42   locX
+  0.00  locY
+ 22.63  locZ
+ 1.00   axisX
+  0.51  axisY
+  0.00  axisZ
+19.23    height
+ 5.14    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-25.77  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.21  axisY
+ -0.39  axisZ
+31.14    height
+ 1.44    radius
+174      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 65334
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+64.48    height
+15.54    radius
+174      texture
+%
+%    LEG1
+9               Natts
+32.24   locX
+ 15.54  locY
+ -48.45 locZ
+ 0.13   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.82    height
+ 3.37    radius
+172      texture
+%
+%    LEG2
+9               Natts
+32.24   locX
+ -15.54 locY
+ -48.45 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.82    height
+ 2.85    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-32.24  locX
+ 15.54  locY
+ -48.45 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.82    height
+ 2.85    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-32.24  locX
+ -15.54 locY
+ -48.45 locZ
+ 0.19   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.82    height
+ 2.88    radius
+174      texture
+%
+%    NECK
+9               Natts
+49.64   locX
+  0.00  locY
+ 32.95  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.21    height
+ 7.03    radius
+177      texture
+%
+%    HEAD
+9               Natts
+67.04   locX
+  0.00  locY
+ 50.35  locZ
+ 1.00   axisX
+  0.21  axisY
+  0.00  axisZ
+19.72    height
+ 5.37    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-42.66  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.04  axisY
+ -0.53  axisZ
+21.82    height
+ 0.80    radius
+176      texture
+%
+%                       ------------ A Horse ------------
+% created with 37559
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.54    height
+12.00    radius
+174      texture
+%
+%    LEG1
+9               Natts
+27.27   locX
+ 12.00  locY
+ -32.19 locZ
+ 0.14   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.39    height
+ 2.91    radius
+170      texture
+%
+%    LEG2
+9               Natts
+27.27   locX
+ -12.00 locY
+ -32.19 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.39    height
+ 3.35    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-27.27  locX
+ 12.00  locY
+ -32.19 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.39    height
+ 2.74    radius
+170      texture
+%
+%    LEG4
+9               Natts
+-27.27  locX
+ -12.00 locY
+ -32.19 locZ
+ 0.32   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.39    height
+ 2.87    radius
+174      texture
+%
+%    NECK
+9               Natts
+32.18   locX
+  0.00  locY
+ 16.91  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.89    height
+ 6.43    radius
+177      texture
+%
+%    HEAD
+9               Natts
+37.09   locX
+  0.00  locY
+ 21.83  locZ
+ 1.00   axisX
+  0.59  axisY
+  0.00  axisZ
+19.73    height
+ 4.42    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-24.70  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.60  axisY
+ -0.32  axisZ
+29.83    height
+ 1.58    radius
+172      texture
+%
+%                       ------------ A Dog ------------
+% created with 3706
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.58    height
+ 5.65    radius
+171      texture
+%
+%    LEG1
+9               Natts
+12.79   locX
+  5.65  locY
+ -12.47 locZ
+ 0.73   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.63    height
+ 1.02    radius
+174      texture
+%
+%    LEG2
+9               Natts
+12.79   locX
+ -5.65  locY
+ -12.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.63    height
+ 0.87    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-12.79  locX
+  5.65  locY
+ -12.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.63    height
+ 1.01    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-12.79  locX
+ -5.65  locY
+ -12.47 locZ
+ 0.53   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.63    height
+ 1.08    radius
+174      texture
+%
+%    NECK
+9               Natts
+15.72   locX
+  0.00  locY
+  5.65  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.85    height
+ 2.56    radius
+176      texture
+%
+%    HEAD
+9               Natts
+18.64   locX
+  0.00  locY
+  5.65  locZ
+ 1.00   axisX
+  0.15  axisY
+  0.00  axisZ
+10.97    height
+ 3.43    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-18.47  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.44  axisY
+  0.08  axisZ
+ 7.11    height
+ 0.29    radius
+175      texture
+%
+%                       ------------ A Horse ------------
+% created with 36021
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.68    height
+13.94    radius
+175      texture
+%
+%    LEG1
+9               Natts
+27.34   locX
+ 13.94  locY
+ -34.15 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.42    height
+ 3.15    radius
+173      texture
+%
+%    LEG2
+9               Natts
+27.34   locX
+ -13.94 locY
+ -34.15 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.42    height
+ 2.71    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-27.34  locX
+ 13.94  locY
+ -34.15 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.42    height
+ 3.47    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-27.34  locX
+ -13.94 locY
+ -34.15 locZ
+ 0.40   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.42    height
+ 2.77    radius
+172      texture
+%
+%    NECK
+9               Natts
+32.53   locX
+  0.00  locY
+ 19.13  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.69    height
+ 5.86    radius
+178      texture
+%
+%    HEAD
+9               Natts
+37.73   locX
+  0.00  locY
+ 24.32  locZ
+ 1.00   axisX
+  0.18  axisY
+  0.00  axisZ
+20.40    height
+ 4.51    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-28.68  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.90  axisY
+ -0.35  axisZ
+26.00    height
+ 1.56    radius
+171      texture
+%
+%                       ------------ A Dog ------------
+% created with 9257
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.17    height
+ 6.50    radius
+173      texture
+%
+%    LEG1
+9               Natts
+12.59   locX
+  6.50  locY
+ -12.47 locZ
+ 0.52   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.93    height
+ 0.85    radius
+177      texture
+%
+%    LEG2
+9               Natts
+12.59   locX
+ -6.50  locY
+ -12.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.93    height
+ 0.92    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-12.59  locX
+  6.50  locY
+ -12.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.93    height
+ 0.88    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-12.59  locX
+ -6.50  locY
+ -12.47 locZ
+ 0.57   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.93    height
+ 0.99    radius
+172      texture
+%
+%    NECK
+9               Natts
+15.28   locX
+  0.00  locY
+  6.50  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.40    height
+ 2.70    radius
+176      texture
+%
+%    HEAD
+9               Natts
+17.98   locX
+  0.00  locY
+  6.50  locZ
+ 1.00   axisX
+  0.04  axisY
+  0.00  axisZ
+12.59    height
+ 2.94    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-18.15  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.04  axisY
+ -0.34  axisZ
+ 7.02    height
+ 0.29    radius
+173      texture
+%
+%                       ------------ A Dog ------------
+% created with 3927
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+23.23    height
+ 6.98    radius
+173      texture
+%
+%    LEG1
+9               Natts
+11.62   locX
+  6.98  locY
+ -13.40 locZ
+ 0.41   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.85    height
+ 1.00    radius
+176      texture
+%
+%    LEG2
+9               Natts
+11.62   locX
+ -6.98  locY
+ -13.40 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.85    height
+ 1.10    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-11.62  locX
+  6.98  locY
+ -13.40 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.85    height
+ 1.08    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-11.62  locX
+ -6.98  locY
+ -13.40 locZ
+ 0.56   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.85    height
+ 0.96    radius
+176      texture
+%
+%    NECK
+9               Natts
+14.24   locX
+  0.00  locY
+  6.98  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.25    height
+ 2.36    radius
+174      texture
+%
+%    HEAD
+9               Natts
+16.86   locX
+  0.00  locY
+  6.98  locZ
+ 1.00   axisX
+ -0.06  axisY
+  0.00  axisZ
+12.23    height
+ 3.07    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-16.42  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.81  axisY
+  0.40  axisZ
+ 6.81    height
+ 0.22    radius
+173      texture
+%
+%                       ------------ A Cat ------------
+% created with 23846
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+17.83    height
+ 3.43    radius
+177      texture
+%
+%    LEG1
+9               Natts
+ 8.91   locX
+  3.43  locY
+ -7.30  locZ
+ 0.14   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.75    height
+ 0.61    radius
+174      texture
+%
+%    LEG2
+9               Natts
+ 8.91   locX
+ -3.43  locY
+ -7.30  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.75    height
+ 0.56    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-8.91   locX
+  3.43  locY
+ -7.30  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.75    height
+ 0.78    radius
+171      texture
+%
+%    LEG4
+9               Natts
+-8.91   locX
+ -3.43  locY
+ -7.30  locZ
+ 0.59   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.75    height
+ 0.65    radius
+179      texture
+%
+%    NECK
+9               Natts
+10.41   locX
+  0.00  locY
+  3.43  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.00    height
+ 2.03    radius
+178      texture
+%
+%    HEAD
+9               Natts
+11.91   locX
+  0.00  locY
+  3.43  locZ
+ 1.00   axisX
+ -0.09  axisY
+  0.00  axisZ
+ 3.45    height
+ 1.92    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-3.04   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.46  axisY
+  0.08  axisZ
+14.79    height
+ 0.55    radius
+171      texture
+%
+%                       ------------ A Cat ------------
+% created with 25800
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+15.88    height
+ 3.51    radius
+176      texture
+%
+%    LEG1
+9               Natts
+ 7.94   locX
+  3.51  locY
+ -6.07  locZ
+ 0.38   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.12    height
+ 0.69    radius
+174      texture
+%
+%    LEG2
+9               Natts
+ 7.94   locX
+ -3.51  locY
+ -6.07  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.12    height
+ 0.64    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-7.94   locX
+  3.51  locY
+ -6.07  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.12    height
+ 0.69    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-7.94   locX
+ -3.51  locY
+ -6.07  locZ
+ 0.61   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.12    height
+ 0.63    radius
+177      texture
+%
+%    NECK
+9               Natts
+ 9.42   locX
+  0.00  locY
+  3.51  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.96    height
+ 2.04    radius
+174      texture
+%
+%    HEAD
+9               Natts
+10.90   locX
+  0.00  locY
+  3.51  locZ
+ 1.00   axisX
+ -0.72  axisY
+  0.00  axisZ
+ 3.02    height
+ 2.14    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-5.62   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.40  axisY
+ -0.19  axisZ
+10.26    height
+ 0.43    radius
+175      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 51303
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+65.91    height
+14.53    radius
+171      texture
+%
+%    LEG1
+9               Natts
+32.95   locX
+ 14.53  locY
+ -46.63 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.20    height
+ 2.24    radius
+174      texture
+%
+%    LEG2
+9               Natts
+32.95   locX
+ -14.53 locY
+ -46.63 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.20    height
+ 2.77    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-32.95  locX
+ 14.53  locY
+ -46.63 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.20    height
+ 3.09    radius
+179      texture
+%
+%    LEG4
+9               Natts
+-32.95  locX
+ -14.53 locY
+ -46.63 locZ
+ 0.49   axisX
+  0.00  axisY
+ -1.00  axisZ
+64.20    height
+ 2.69    radius
+173      texture
+%
+%    NECK
+9               Natts
+50.45   locX
+  0.00  locY
+ 32.03  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.49    height
+ 5.51    radius
+174      texture
+%
+%    HEAD
+9               Natts
+67.95   locX
+  0.00  locY
+ 49.53  locZ
+ 1.00   axisX
+  0.58  axisY
+  0.00  axisZ
+19.08    height
+ 4.49    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-42.94  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.59  axisY
+ -0.59  axisZ
+22.96    height
+ 0.80    radius
+171      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 56710
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+65.37    height
+14.10    radius
+179      texture
+%
+%    LEG1
+9               Natts
+32.69   locX
+ 14.10  locY
+ -48.94 locZ
+ 0.39   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.67    height
+ 3.18    radius
+173      texture
+%
+%    LEG2
+9               Natts
+32.69   locX
+ -14.10 locY
+ -48.94 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.67    height
+ 3.17    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-32.69  locX
+ 14.10  locY
+ -48.94 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.67    height
+ 2.64    radius
+177      texture
+%
+%    LEG4
+9               Natts
+-32.69  locX
+ -14.10 locY
+ -48.94 locZ
+ 0.35   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.67    height
+ 3.63    radius
+170      texture
+%
+%    NECK
+9               Natts
+50.53   locX
+  0.00  locY
+ 31.94  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.46    height
+ 7.84    radius
+172      texture
+%
+%    HEAD
+9               Natts
+68.37   locX
+  0.00  locY
+ 49.79  locZ
+ 1.00   axisX
+ -0.24  axisY
+  0.00  axisZ
+19.27    height
+ 3.76    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-42.59  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.31  axisY
+ -0.33  axisZ
+22.78    height
+ 0.72    radius
+176      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 54197
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+66.93    height
+14.77    radius
+170      texture
+%
+%    LEG1
+9               Natts
+33.46   locX
+ 14.77  locY
+ -49.33 locZ
+ 0.15   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.11    height
+ 3.09    radius
+177      texture
+%
+%    LEG2
+9               Natts
+33.46   locX
+ -14.77 locY
+ -49.33 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.11    height
+ 3.04    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-33.46  locX
+ 14.77  locY
+ -49.33 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.11    height
+ 2.04    radius
+171      texture
+%
+%    LEG4
+9               Natts
+-33.46  locX
+ -14.77 locY
+ -49.33 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+69.11    height
+ 3.45    radius
+172      texture
+%
+%    NECK
+9               Natts
+51.69   locX
+  0.00  locY
+ 33.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+51.55    height
+ 6.41    radius
+173      texture
+%
+%    HEAD
+9               Natts
+69.92   locX
+  0.00  locY
+ 51.23  locZ
+ 1.00   axisX
+  0.15  axisY
+  0.00  axisZ
+20.21    height
+ 4.51    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-43.39  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.40  axisY
+ -0.32  axisZ
+23.54    height
+ 0.72    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 40214
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+56.06    height
+12.58    radius
+172      texture
+%
+%    LEG1
+9               Natts
+28.03   locX
+ 12.58  locY
+ -32.74 locZ
+ 0.28   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.32    height
+ 2.68    radius
+172      texture
+%
+%    LEG2
+9               Natts
+28.03   locX
+ -12.58 locY
+ -32.74 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.32    height
+ 2.64    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-28.03  locX
+ 12.58  locY
+ -32.74 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.32    height
+ 2.89    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-28.03  locX
+ -12.58 locY
+ -32.74 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.32    height
+ 2.97    radius
+174      texture
+%
+%    NECK
+9               Natts
+32.91   locX
+  0.00  locY
+ 17.46  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.80    height
+ 6.39    radius
+175      texture
+%
+%    HEAD
+9               Natts
+37.79   locX
+  0.00  locY
+ 22.34  locZ
+ 1.00   axisX
+ -0.17  axisY
+  0.00  axisZ
+19.61    height
+ 4.04    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-26.35  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.18  axisY
+ -0.67  axisZ
+29.71    height
+ 1.39    radius
+171      texture
+%
+%                       ------------ A Cat ------------
+% created with 27659
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+15.22    height
+ 3.41    radius
+176      texture
+%
+%    LEG1
+9               Natts
+ 7.61   locX
+  3.41  locY
+ -7.23  locZ
+ 0.46   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.64    height
+ 0.75    radius
+174      texture
+%
+%    LEG2
+9               Natts
+ 7.61   locX
+ -3.41  locY
+ -7.23  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.64    height
+ 0.76    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-7.61   locX
+  3.41  locY
+ -7.23  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.64    height
+ 0.67    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-7.61   locX
+ -3.41  locY
+ -7.23  locZ
+ 0.54   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.64    height
+ 0.67    radius
+179      texture
+%
+%    NECK
+9               Natts
+ 8.86   locX
+  0.00  locY
+  3.41  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.49    height
+ 1.93    radius
+174      texture
+%
+%    HEAD
+9               Natts
+10.10   locX
+  0.00  locY
+  3.41  locZ
+ 1.00   axisX
+  0.37  axisY
+  0.00  axisZ
+ 4.00    height
+ 1.94    radius
+174      texture
+%
+%    TAIL
+9               Natts
+ 0.04   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.45  axisY
+ -0.17  axisZ
+15.26    height
+ 0.53    radius
+178      texture
+%
+%                       ------------ A Cat ------------
+% created with 22137
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+18.91    height
+ 3.60    radius
+175      texture
+%
+%    LEG1
+9               Natts
+ 9.45   locX
+  3.60  locY
+ -6.32  locZ
+ 0.46   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.45    height
+ 0.58    radius
+178      texture
+%
+%    LEG2
+9               Natts
+ 9.45   locX
+ -3.60  locY
+ -6.32  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.45    height
+ 0.79    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-9.45   locX
+  3.60  locY
+ -6.32  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.45    height
+ 0.57    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-9.45   locX
+ -3.60  locY
+ -6.32  locZ
+ 0.35   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.45    height
+ 0.73    radius
+173      texture
+%
+%    NECK
+9               Natts
+10.66   locX
+  0.00  locY
+  3.60  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.41    height
+ 1.94    radius
+175      texture
+%
+%    HEAD
+9               Natts
+11.86   locX
+  0.00  locY
+  3.60  locZ
+ 1.00   axisX
+  0.19  axisY
+  0.00  axisZ
+ 4.31    height
+ 2.20    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-4.46   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.01  axisY
+  0.65  axisZ
+14.45    height
+ 0.43    radius
+179      texture
+%
+%                       ------------ A Horse ------------
+% created with 37806
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.12    height
+13.50    radius
+174      texture
+%
+%    LEG1
+9               Natts
+27.06   locX
+ 13.50  locY
+ -33.58 locZ
+ 0.20   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.16    height
+ 2.62    radius
+173      texture
+%
+%    LEG2
+9               Natts
+27.06   locX
+ -13.50 locY
+ -33.58 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.16    height
+ 2.42    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-27.06  locX
+ 13.50  locY
+ -33.58 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.16    height
+ 2.31    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-27.06  locX
+ -13.50 locY
+ -33.58 locZ
+ 0.24   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.16    height
+ 2.42    radius
+179      texture
+%
+%    NECK
+9               Natts
+31.93   locX
+  0.00  locY
+ 18.37  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.78    height
+ 6.20    radius
+175      texture
+%
+%    HEAD
+9               Natts
+36.81   locX
+  0.00  locY
+ 23.24  locZ
+ 1.00   axisX
+  0.67  axisY
+  0.00  axisZ
+20.16    height
+ 5.69    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-24.77  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.16  axisY
+ -0.55  axisZ
+29.35    height
+ 1.65    radius
+170      texture
+%
+%                       ------------ A Dog ------------
+% created with 1664
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.38    height
+ 6.61    radius
+179      texture
+%
+%    LEG1
+9               Natts
+12.69   locX
+  6.61  locY
+ -13.92 locZ
+ 0.66   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.62    height
+ 0.87    radius
+173      texture
+%
+%    LEG2
+9               Natts
+12.69   locX
+ -6.61  locY
+ -13.92 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.62    height
+ 0.99    radius
+170      texture
+%
+%    LEG3
+9               Natts
+-12.69  locX
+  6.61  locY
+ -13.92 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.62    height
+ 1.11    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-12.69  locX
+ -6.61  locY
+ -13.92 locZ
+ 0.57   axisX
+  0.00  axisY
+ -1.00  axisZ
+14.62    height
+ 1.02    radius
+176      texture
+%
+%    NECK
+9               Natts
+15.43   locX
+  0.00  locY
+  6.61  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.48    height
+ 2.79    radius
+175      texture
+%
+%    HEAD
+9               Natts
+18.17   locX
+  0.00  locY
+  6.61  locZ
+ 1.00   axisX
+  0.83  axisY
+  0.00  axisZ
+11.60    height
+ 2.95    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-18.31  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.12  axisY
+  0.20  axisZ
+ 7.08    height
+ 0.36    radius
+172      texture
+%
+%                       ------------ A Horse ------------
+% created with 46800
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.95    height
+12.95    radius
+174      texture
+%
+%    LEG1
+9               Natts
+27.98   locX
+ 12.95  locY
+ -33.11 locZ
+ 0.43   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.31    height
+ 2.68    radius
+177      texture
+%
+%    LEG2
+9               Natts
+27.98   locX
+ -12.95 locY
+ -33.11 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.31    height
+ 3.08    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-27.98  locX
+ 12.95  locY
+ -33.11 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.31    height
+ 2.83    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-27.98  locX
+ -12.95 locY
+ -33.11 locZ
+ 0.32   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.31    height
+ 3.29    radius
+172      texture
+%
+%    NECK
+9               Natts
+32.90   locX
+  0.00  locY
+ 17.87  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.91    height
+ 5.81    radius
+174      texture
+%
+%    HEAD
+9               Natts
+37.81   locX
+  0.00  locY
+ 22.79  locZ
+ 1.00   axisX
+  0.58  axisY
+  0.00  axisZ
+20.02    height
+ 4.07    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-25.34  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.56  axisY
+ -0.45  axisZ
+30.61    height
+ 1.30    radius
+175      texture
+%
+%                       ------------ A Dog ------------
+% created with 8235
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+27.48    height
+ 6.48    radius
+174      texture
+%
+%    LEG1
+9               Natts
+13.74   locX
+  6.48  locY
+ -13.47 locZ
+ 0.15   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.97    height
+ 1.10    radius
+175      texture
+%
+%    LEG2
+9               Natts
+13.74   locX
+ -6.48  locY
+ -13.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.97    height
+ 0.98    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-13.74  locX
+  6.48  locY
+ -13.47 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.97    height
+ 1.03    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-13.74  locX
+ -6.48  locY
+ -13.47 locZ
+ 0.50   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.97    height
+ 1.12    radius
+175      texture
+%
+%    NECK
+9               Natts
+16.48   locX
+  0.00  locY
+  6.48  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.47    height
+ 2.72    radius
+176      texture
+%
+%    HEAD
+9               Natts
+19.21   locX
+  0.00  locY
+  6.48  locZ
+ 1.00   axisX
+ -0.11  axisY
+  0.00  axisZ
+11.72    height
+ 2.82    radius
+179      texture
+%
+%    TAIL
+9               Natts
+-21.44  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.44  axisY
+  0.36  axisZ
+ 6.04    height
+ 0.25    radius
+176      texture
+%
+%                       ------------ A Cat ------------
+% created with 29092
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+18.69    height
+ 3.57    radius
+175      texture
+%
+%    LEG1
+9               Natts
+ 9.34   locX
+  3.57  locY
+ -8.07  locZ
+ 0.62   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 8.98    height
+ 0.62    radius
+176      texture
+%
+%    LEG2
+9               Natts
+ 9.34   locX
+ -3.57  locY
+ -8.07  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 8.98    height
+ 0.62    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-9.34   locX
+  3.57  locY
+ -8.07  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 8.98    height
+ 0.62    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-9.34   locX
+ -3.57  locY
+ -8.07  locZ
+ 0.55   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 8.98    height
+ 0.60    radius
+178      texture
+%
+%    NECK
+9               Natts
+11.13   locX
+  0.00  locY
+  3.57  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.57    height
+ 1.74    radius
+174      texture
+%
+%    HEAD
+9               Natts
+12.91   locX
+  0.00  locY
+  3.57  locZ
+ 1.00   axisX
+  0.26  axisY
+  0.00  axisZ
+ 4.30    height
+ 2.01    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-7.06   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.99  axisY
+ -0.83  axisZ
+11.62    height
+ 0.54    radius
+172      texture
+%
+%                       ------------ A Cat ------------
+% created with 28598
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+18.32    height
+ 3.15    radius
+175      texture
+%
+%    LEG1
+9               Natts
+ 9.16   locX
+  3.15  locY
+ -6.31  locZ
+ 0.52   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.33    height
+ 0.80    radius
+170      texture
+%
+%    LEG2
+9               Natts
+ 9.16   locX
+ -3.15  locY
+ -6.31  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.33    height
+ 0.43    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-9.16   locX
+  3.15  locY
+ -6.31  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.33    height
+ 0.59    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-9.16   locX
+ -3.15  locY
+ -6.31  locZ
+ 0.50   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.33    height
+ 0.68    radius
+176      texture
+%
+%    NECK
+9               Natts
+10.73   locX
+  0.00  locY
+  3.15  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.14    height
+ 1.80    radius
+176      texture
+%
+%    HEAD
+9               Natts
+12.30   locX
+  0.00  locY
+  3.15  locZ
+ 1.00   axisX
+  0.88  axisY
+  0.00  axisZ
+ 4.10    height
+ 2.07    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-3.40   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.35  axisY
+  0.83  axisZ
+14.92    height
+ 0.46    radius
+174      texture
+%
+%                       ------------ A Cat ------------
+% created with 32682
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+16.95    height
+ 2.87    radius
+179      texture
+%
+%    LEG1
+9               Natts
+ 8.47   locX
+  2.87  locY
+ -5.89  locZ
+ 0.56   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.05    height
+ 0.67    radius
+175      texture
+%
+%    LEG2
+9               Natts
+ 8.47   locX
+ -2.87  locY
+ -5.89  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.05    height
+ 0.59    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-8.47   locX
+  2.87  locY
+ -5.89  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.05    height
+ 0.59    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-8.47   locX
+ -2.87  locY
+ -5.89  locZ
+ 0.61   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.05    height
+ 0.61    radius
+174      texture
+%
+%    NECK
+9               Natts
+10.00   locX
+  0.00  locY
+  2.87  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.05    height
+ 1.79    radius
+175      texture
+%
+%    HEAD
+9               Natts
+11.52   locX
+  0.00  locY
+  2.87  locZ
+ 1.00   axisX
+  0.42  axisY
+  0.00  axisZ
+ 3.24    height
+ 1.85    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-2.94   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.28  axisY
+ -0.07  axisZ
+14.01    height
+ 0.47    radius
+175      texture
+%
+%                       ------------ A Dog ------------
+% created with 11124
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.45    height
+ 6.40    radius
+174      texture
+%
+%    LEG1
+9               Natts
+12.73   locX
+  6.40  locY
+ -12.64 locZ
+ 0.33   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.48    height
+ 1.00    radius
+176      texture
+%
+%    LEG2
+9               Natts
+12.73   locX
+ -6.40  locY
+ -12.64 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.48    height
+ 1.01    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-12.73  locX
+  6.40  locY
+ -12.64 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.48    height
+ 1.03    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-12.73  locX
+ -6.40  locY
+ -12.64 locZ
+ 0.22   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.48    height
+ 0.96    radius
+175      texture
+%
+%    NECK
+9               Natts
+15.47   locX
+  0.00  locY
+  6.40  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.48    height
+ 2.42    radius
+175      texture
+%
+%    HEAD
+9               Natts
+18.21   locX
+  0.00  locY
+  6.40  locZ
+ 1.00   axisX
+  0.10  axisY
+  0.00  axisZ
+11.36    height
+ 3.19    radius
+171      texture
+%
+%    TAIL
+9               Natts
+-17.50  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.04  axisY
+  0.47  axisZ
+ 7.95    height
+ 0.30    radius
+176      texture
+%
+%                       ------------ A Dog ------------
+% created with 13168
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.02    height
+ 6.37    radius
+176      texture
+%
+%    LEG1
+9               Natts
+12.01   locX
+  6.37  locY
+ -12.63 locZ
+ 0.99   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.52    height
+ 0.90    radius
+173      texture
+%
+%    LEG2
+9               Natts
+12.01   locX
+ -6.37  locY
+ -12.63 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.52    height
+ 1.05    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-12.01  locX
+  6.37  locY
+ -12.63 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.52    height
+ 0.85    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-12.01  locX
+ -6.37  locY
+ -12.63 locZ
+ 0.70   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.52    height
+ 0.98    radius
+174      texture
+%
+%    NECK
+9               Natts
+14.73   locX
+  0.00  locY
+  6.37  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.43    height
+ 2.05    radius
+176      texture
+%
+%    HEAD
+9               Natts
+17.44   locX
+  0.00  locY
+  6.37  locZ
+ 1.00   axisX
+ -0.18  axisY
+  0.00  axisZ
+11.08    height
+ 3.07    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-17.56  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.21  axisY
+  0.14  axisZ
+ 6.46    height
+ 0.33    radius
+175      texture
+%
+%                       ------------ A Cat ------------
+% created with 28375
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+16.87    height
+ 3.92    radius
+174      texture
+%
+%    LEG1
+9               Natts
+ 8.44   locX
+  3.92  locY
+ -7.43  locZ
+ 0.44   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.00    height
+ 0.65    radius
+174      texture
+%
+%    LEG2
+9               Natts
+ 8.44   locX
+ -3.92  locY
+ -7.43  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.00    height
+ 0.51    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-8.44   locX
+  3.92  locY
+ -7.43  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.00    height
+ 0.52    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-8.44   locX
+ -3.92  locY
+ -7.43  locZ
+ 0.67   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.00    height
+ 0.68    radius
+173      texture
+%
+%    NECK
+9               Natts
+ 9.53   locX
+  0.00  locY
+  3.92  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.18    height
+ 2.13    radius
+177      texture
+%
+%    HEAD
+9               Natts
+10.62   locX
+  0.00  locY
+  3.92  locZ
+ 1.00   axisX
+  0.62  axisY
+  0.00  axisZ
+ 4.33    height
+ 2.00    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-6.15   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.01  axisY
+  0.36  axisZ
+10.73    height
+ 0.53    radius
+174      texture
+%
+%                       ------------ A Cat ------------
+% created with 18871
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+17.25    height
+ 3.13    radius
+175      texture
+%
+%    LEG1
+9               Natts
+ 8.62   locX
+  3.13  locY
+ -6.27  locZ
+ 0.52   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.28    height
+ 0.75    radius
+173      texture
+%
+%    LEG2
+9               Natts
+ 8.62   locX
+ -3.13  locY
+ -6.27  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.28    height
+ 0.50    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-8.62   locX
+  3.13  locY
+ -6.27  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.28    height
+ 0.60    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-8.62   locX
+ -3.13  locY
+ -6.27  locZ
+ 0.53   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.28    height
+ 0.61    radius
+176      texture
+%
+%    NECK
+9               Natts
+10.10   locX
+  0.00  locY
+  3.13  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.96    height
+ 1.89    radius
+174      texture
+%
+%    HEAD
+9               Natts
+11.58   locX
+  0.00  locY
+  3.13  locZ
+ 1.00   axisX
+  0.40  axisY
+  0.00  axisZ
+ 3.12    height
+ 2.29    radius
+173      texture
+%
+%    TAIL
+9               Natts
+-5.47   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.47  axisY
+ -0.16  axisZ
+11.77    height
+ 0.31    radius
+179      texture
+%
+%                       ------------ A Dog ------------
+% created with 5107
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.63    height
+ 6.68    radius
+174      texture
+%
+%    LEG1
+9               Natts
+12.31   locX
+  6.68  locY
+ -13.18 locZ
+ 0.59   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 1.20    radius
+174      texture
+%
+%    LEG2
+9               Natts
+12.31   locX
+ -6.68  locY
+ -13.18 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 0.90    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-12.31  locX
+  6.68  locY
+ -13.18 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 0.82    radius
+178      texture
+%
+%    LEG4
+9               Natts
+-12.31  locX
+ -6.68  locY
+ -13.18 locZ
+ 0.53   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 1.01    radius
+179      texture
+%
+%    NECK
+9               Natts
+15.11   locX
+  0.00  locY
+  6.68  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.59    height
+ 2.48    radius
+177      texture
+%
+%    HEAD
+9               Natts
+17.90   locX
+  0.00  locY
+  6.68  locZ
+ 1.00   axisX
+ -0.11  axisY
+  0.00  axisZ
+11.70    height
+ 3.27    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-18.44  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.09  axisY
+  0.32  axisZ
+ 6.19    height
+ 0.22    radius
+174      texture
+%
+%                       ------------ A Cat ------------
+% created with 19928
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+17.91    height
+ 3.56    radius
+175      texture
+%
+%    LEG1
+9               Natts
+ 8.96   locX
+  3.56  locY
+ -7.18  locZ
+ 0.39   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.25    height
+ 0.54    radius
+172      texture
+%
+%    LEG2
+9               Natts
+ 8.96   locX
+ -3.56  locY
+ -7.18  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.25    height
+ 0.59    radius
+178      texture
+%
+%    LEG3
+9               Natts
+-8.96   locX
+  3.56  locY
+ -7.18  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.25    height
+ 0.67    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-8.96   locX
+ -3.56  locY
+ -7.18  locZ
+ 0.51   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 7.25    height
+ 0.57    radius
+175      texture
+%
+%    NECK
+9               Natts
+10.54   locX
+  0.00  locY
+  3.56  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.17    height
+ 2.00    radius
+175      texture
+%
+%    HEAD
+9               Natts
+12.13   locX
+  0.00  locY
+  3.56  locZ
+ 1.00   axisX
+  0.15  axisY
+  0.00  axisZ
+ 4.01    height
+ 2.01    radius
+170      texture
+%
+%    TAIL
+9               Natts
+-7.34   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.84  axisY
+ -0.03  axisZ
+10.58    height
+ 0.48    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 41475
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.33    height
+12.24    radius
+171      texture
+%
+%    LEG1
+9               Natts
+27.17   locX
+ 12.24  locY
+ -32.87 locZ
+ 0.24   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.28    height
+ 2.80    radius
+176      texture
+%
+%    LEG2
+9               Natts
+27.17   locX
+ -12.24 locY
+ -32.87 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.28    height
+ 2.66    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-27.17  locX
+ 12.24  locY
+ -32.87 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.28    height
+ 3.39    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-27.17  locX
+ -12.24 locY
+ -32.87 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.28    height
+ 2.27    radius
+178      texture
+%
+%    NECK
+9               Natts
+32.28   locX
+  0.00  locY
+ 17.35  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.45    height
+ 6.38    radius
+177      texture
+%
+%    HEAD
+9               Natts
+37.39   locX
+  0.00  locY
+ 22.46  locZ
+ 1.00   axisX
+  0.86  axisY
+  0.00  axisZ
+20.53    height
+ 4.84    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-26.27  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.16  axisY
+ -0.16  axisZ
+28.06    height
+ 1.20    radius
+175      texture
+%
+%                       ------------ A Cat ------------
+% created with 27582
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+20.13    height
+ 3.85    radius
+172      texture
+%
+%    LEG1
+9               Natts
+10.06   locX
+  3.85  locY
+ -6.29  locZ
+ 0.17   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 4.88    height
+ 0.64    radius
+174      texture
+%
+%    LEG2
+9               Natts
+10.06   locX
+ -3.85  locY
+ -6.29  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 4.88    height
+ 0.45    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-10.06  locX
+  3.85  locY
+ -6.29  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 4.88    height
+ 0.59    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-10.06  locX
+ -3.85  locY
+ -6.29  locZ
+ 0.58   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 4.88    height
+ 0.52    radius
+175      texture
+%
+%    NECK
+9               Natts
+11.47   locX
+  0.00  locY
+  3.85  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.81    height
+ 1.55    radius
+173      texture
+%
+%    HEAD
+9               Natts
+12.87   locX
+  0.00  locY
+  3.85  locZ
+ 1.00   axisX
+  0.14  axisY
+  0.00  axisZ
+ 3.53    height
+ 1.78    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-5.86   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.15  axisY
+  0.44  axisZ
+14.27    height
+ 0.58    radius
+173      texture
+%
+%                       ------------ A Dog ------------
+% created with 4731
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+26.22    height
+ 7.27    radius
+175      texture
+%
+%    LEG1
+9               Natts
+13.11   locX
+  7.27  locY
+ -12.80 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.06    height
+ 0.99    radius
+178      texture
+%
+%    LEG2
+9               Natts
+13.11   locX
+ -7.27  locY
+ -12.80 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.06    height
+ 1.10    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-13.11  locX
+  7.27  locY
+ -12.80 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.06    height
+ 0.94    radius
+171      texture
+%
+%    LEG4
+9               Natts
+-13.11  locX
+ -7.27  locY
+ -12.80 locZ
+ 0.42   axisX
+  0.00  axisY
+ -1.00  axisZ
+11.06    height
+ 0.99    radius
+177      texture
+%
+%    NECK
+9               Natts
+15.98   locX
+  0.00  locY
+  7.27  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.75    height
+ 2.53    radius
+172      texture
+%
+%    HEAD
+9               Natts
+18.86   locX
+  0.00  locY
+  7.27  locZ
+ 1.00   axisX
+  0.26  axisY
+  0.00  axisZ
+10.48    height
+ 2.82    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-18.44  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.38  axisY
+  0.36  axisZ
+ 7.78    height
+ 0.31    radius
+176      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 49835
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+66.24    height
+14.86    radius
+173      texture
+%
+%    LEG1
+9               Natts
+33.12   locX
+ 14.86  locY
+ -46.59 locZ
+ 0.35   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.47    height
+ 2.43    radius
+174      texture
+%
+%    LEG2
+9               Natts
+33.12   locX
+ -14.86 locY
+ -46.59 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.47    height
+ 2.81    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-33.12  locX
+ 14.86  locY
+ -46.59 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.47    height
+ 3.00    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-33.12  locX
+ -14.86 locY
+ -46.59 locZ
+ 0.16   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.47    height
+ 3.04    radius
+179      texture
+%
+%    NECK
+9               Natts
+49.84   locX
+  0.00  locY
+ 31.58  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+47.28    height
+ 5.99    radius
+175      texture
+%
+%    HEAD
+9               Natts
+66.56   locX
+  0.00  locY
+ 48.30  locZ
+ 1.00   axisX
+ -0.16  axisY
+  0.00  axisZ
+20.00    height
+ 4.58    radius
+179      texture
+%
+%    TAIL
+9               Natts
+-45.12  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.86  axisY
+ -0.55  axisZ
+21.12    height
+ 0.66    radius
+174      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 54253
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+67.00    height
+14.67    radius
+177      texture
+%
+%    LEG1
+9               Natts
+33.50   locX
+ 14.67  locY
+ -45.79 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+62.24    height
+ 2.67    radius
+175      texture
+%
+%    LEG2
+9               Natts
+33.50   locX
+ -14.67 locY
+ -45.79 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+62.24    height
+ 3.24    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-33.50  locX
+ 14.67  locY
+ -45.79 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+62.24    height
+ 2.70    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-33.50  locX
+ -14.67 locY
+ -45.79 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+62.24    height
+ 2.46    radius
+176      texture
+%
+%    NECK
+9               Natts
+51.26   locX
+  0.00  locY
+ 32.43  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.23    height
+ 8.53    radius
+172      texture
+%
+%    HEAD
+9               Natts
+69.02   locX
+  0.00  locY
+ 50.19  locZ
+ 1.00   axisX
+  0.23  axisY
+  0.00  axisZ
+20.36    height
+ 4.06    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-44.07  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.54  axisY
+ -0.55  axisZ
+22.93    height
+ 0.74    radius
+172      texture
+%
+%                       ------------ A Horse ------------
+% created with 46915
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+53.75    height
+11.89    radius
+175      texture
+%
+%    LEG1
+9               Natts
+26.87   locX
+ 11.89  locY
+ -32.27 locZ
+ 0.28   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.76    height
+ 2.65    radius
+174      texture
+%
+%    LEG2
+9               Natts
+26.87   locX
+ -11.89 locY
+ -32.27 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.76    height
+ 2.69    radius
+178      texture
+%
+%    LEG3
+9               Natts
+-26.87  locX
+ 11.89  locY
+ -32.27 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.76    height
+ 2.84    radius
+177      texture
+%
+%    LEG4
+9               Natts
+-26.87  locX
+ -11.89 locY
+ -32.27 locZ
+ 0.13   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.76    height
+ 2.52    radius
+177      texture
+%
+%    NECK
+9               Natts
+31.51   locX
+  0.00  locY
+ 16.53  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.11    height
+ 6.04    radius
+174      texture
+%
+%    HEAD
+9               Natts
+36.14   locX
+  0.00  locY
+ 21.16  locZ
+ 1.00   axisX
+ -0.09  axisY
+  0.00  axisZ
+18.98    height
+ 5.31    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-25.87  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.67  axisY
+ -0.75  axisZ
+27.88    height
+ 1.58    radius
+179      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 60616
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+68.75    height
+15.98    radius
+174      texture
+%
+%    LEG1
+9               Natts
+34.37   locX
+ 15.98  locY
+ -47.88 locZ
+ 0.34   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.80    height
+ 2.65    radius
+177      texture
+%
+%    LEG2
+9               Natts
+34.37   locX
+ -15.98 locY
+ -47.88 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.80    height
+ 2.34    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-34.37  locX
+ 15.98  locY
+ -47.88 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.80    height
+ 2.81    radius
+177      texture
+%
+%    LEG4
+9               Natts
+-34.37  locX
+ -15.98 locY
+ -47.88 locZ
+ 0.30   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.80    height
+ 2.91    radius
+175      texture
+%
+%    NECK
+9               Natts
+51.70   locX
+  0.00  locY
+ 33.31  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.00    height
+ 5.21    radius
+176      texture
+%
+%    HEAD
+9               Natts
+69.03   locX
+  0.00  locY
+ 50.64  locZ
+ 1.00   axisX
+ -0.78  axisY
+  0.00  axisZ
+20.60    height
+ 5.38    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-47.27  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.07  axisY
+ -0.67  axisZ
+21.47    height
+ 0.74    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 13680
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.69    height
+ 6.91    radius
+177      texture
+%
+%    LEG1
+9               Natts
+12.35   locX
+  6.91  locY
+ -13.32 locZ
+ 0.21   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.82    height
+ 0.97    radius
+174      texture
+%
+%    LEG2
+9               Natts
+12.35   locX
+ -6.91  locY
+ -13.32 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.82    height
+ 0.98    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-12.35  locX
+  6.91  locY
+ -13.32 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.82    height
+ 0.97    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-12.35  locX
+ -6.91  locY
+ -13.32 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.82    height
+ 0.98    radius
+172      texture
+%
+%    NECK
+9               Natts
+15.03   locX
+  0.00  locY
+  6.91  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.36    height
+ 2.51    radius
+176      texture
+%
+%    HEAD
+9               Natts
+17.71   locX
+  0.00  locY
+  6.91  locZ
+ 1.00   axisX
+  0.13  axisY
+  0.00  axisZ
+11.28    height
+ 3.12    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-16.88  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.33  axisY
+  0.13  axisZ
+ 7.81    height
+ 0.31    radius
+172      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 61554
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+60.35    height
+15.05    radius
+176      texture
+%
+%    LEG1
+9               Natts
+30.17   locX
+ 15.05  locY
+ -47.03 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.96    height
+ 2.60    radius
+174      texture
+%
+%    LEG2
+9               Natts
+30.17   locX
+ -15.05 locY
+ -47.03 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.96    height
+ 2.86    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-30.17  locX
+ 15.05  locY
+ -47.03 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.96    height
+ 3.64    radius
+177      texture
+%
+%    LEG4
+9               Natts
+-30.17  locX
+ -15.05 locY
+ -47.03 locZ
+ 0.33   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.96    height
+ 3.16    radius
+176      texture
+%
+%    NECK
+9               Natts
+46.40   locX
+  0.00  locY
+ 31.28  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+45.89    height
+ 6.66    radius
+176      texture
+%
+%    HEAD
+9               Natts
+62.63   locX
+  0.00  locY
+ 47.50  locZ
+ 1.00   axisX
+ -0.03  axisY
+  0.00  axisZ
+19.69    height
+ 4.93    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-37.85  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.65  axisY
+ -0.48  axisZ
+22.50    height
+ 0.73    radius
+172      texture
+%
+%                       ------------ A Dog ------------
+% created with 11232
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.23    height
+ 6.09    radius
+179      texture
+%
+%    LEG1
+9               Natts
+12.12   locX
+  6.09  locY
+ -12.58 locZ
+ 0.60   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 0.81    radius
+177      texture
+%
+%    LEG2
+9               Natts
+12.12   locX
+ -6.09  locY
+ -12.58 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 0.96    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-12.12  locX
+  6.09  locY
+ -12.58 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 1.03    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-12.12  locX
+ -6.09  locY
+ -12.58 locZ
+ 0.13   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.98    height
+ 1.03    radius
+172      texture
+%
+%    NECK
+9               Natts
+14.86   locX
+  0.00  locY
+  6.09  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.49    height
+ 2.49    radius
+175      texture
+%
+%    HEAD
+9               Natts
+17.60   locX
+  0.00  locY
+  6.09  locZ
+ 1.00   axisX
+ -0.02  axisY
+  0.00  axisZ
+11.52    height
+ 2.96    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-17.56  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.18  axisY
+ -0.20  axisZ
+ 6.67    height
+ 0.34    radius
+174      texture
+%
+%                       ------------ A Horse ------------
+% created with 40135
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.51    height
+13.16    radius
+175      texture
+%
+%    LEG1
+9               Natts
+27.25   locX
+ 13.16  locY
+ -34.15 locZ
+ 0.32   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.98    height
+ 3.08    radius
+175      texture
+%
+%    LEG2
+9               Natts
+27.25   locX
+ -13.16 locY
+ -34.15 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.98    height
+ 2.35    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-27.25  locX
+ 13.16  locY
+ -34.15 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.98    height
+ 2.88    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-27.25  locX
+ -13.16 locY
+ -34.15 locZ
+ 0.31   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.98    height
+ 3.19    radius
+179      texture
+%
+%    NECK
+9               Natts
+32.30   locX
+  0.00  locY
+ 18.21  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.28    height
+ 6.16    radius
+171      texture
+%
+%    HEAD
+9               Natts
+37.35   locX
+  0.00  locY
+ 23.26  locZ
+ 1.00   axisX
+ -0.04  axisY
+  0.00  axisZ
+20.17    height
+ 5.00    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-25.84  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.24  axisY
+ -0.80  axisZ
+28.66    height
+ 1.49    radius
+172      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 49804
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+63.05    height
+14.56    radius
+173      texture
+%
+%    LEG1
+9               Natts
+31.53   locX
+ 14.56  locY
+ -47.16 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.20    height
+ 3.16    radius
+170      texture
+%
+%    LEG2
+9               Natts
+31.53   locX
+ -14.56 locY
+ -47.16 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.20    height
+ 3.70    radius
+176      texture
+%
+%    LEG3
+9               Natts
+-31.53  locX
+ 14.56  locY
+ -47.16 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.20    height
+ 3.12    radius
+171      texture
+%
+%    LEG4
+9               Natts
+-31.53  locX
+ -14.56 locY
+ -47.16 locZ
+ 0.33   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.20    height
+ 2.97    radius
+176      texture
+%
+%    NECK
+9               Natts
+48.92   locX
+  0.00  locY
+ 31.95  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.18    height
+ 8.35    radius
+174      texture
+%
+%    HEAD
+9               Natts
+66.31   locX
+  0.00  locY
+ 49.34  locZ
+ 1.00   axisX
+  0.55  axisY
+  0.00  axisZ
+19.95    height
+ 4.06    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-41.85  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.09  axisY
+ -0.79  axisZ
+21.20    height
+ 0.86    radius
+175      texture
+%
+%                       ------------ A Horse ------------
+% created with 44692
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.13    height
+12.43    radius
+175      texture
+%
+%    LEG1
+9               Natts
+27.57   locX
+ 12.43  locY
+ -34.41 locZ
+ 0.04   axisX
+  0.00  axisY
+ -1.00  axisZ
+43.96    height
+ 2.92    radius
+175      texture
+%
+%    LEG2
+9               Natts
+27.57   locX
+ -12.43 locY
+ -34.41 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+43.96    height
+ 2.61    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-27.57  locX
+ 12.43  locY
+ -34.41 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+43.96    height
+ 2.57    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-27.57  locX
+ -12.43 locY
+ -34.41 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+43.96    height
+ 3.19    radius
+175      texture
+%
+%    NECK
+9               Natts
+32.48   locX
+  0.00  locY
+ 17.35  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.90    height
+ 5.44    radius
+172      texture
+%
+%    HEAD
+9               Natts
+37.40   locX
+  0.00  locY
+ 22.27  locZ
+ 1.00   axisX
+  0.40  axisY
+  0.00  axisZ
+19.06    height
+ 4.91    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-26.87  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.34  axisY
+ -0.19  axisZ
+28.26    height
+ 1.46    radius
+170      texture
+%
+%                       ------------ A Dog ------------
+% created with 13457
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+22.82    height
+ 6.21    radius
+174      texture
+%
+%    LEG1
+9               Natts
+11.41   locX
+  6.21  locY
+ -12.23 locZ
+ 0.70   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 1.13    radius
+178      texture
+%
+%    LEG2
+9               Natts
+11.41   locX
+ -6.21  locY
+ -12.23 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 1.00    radius
+171      texture
+%
+%    LEG3
+9               Natts
+-11.41  locX
+  6.21  locY
+ -12.23 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 0.81    radius
+179      texture
+%
+%    LEG4
+9               Natts
+-11.41  locX
+ -6.21  locY
+ -12.23 locZ
+ 0.46   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.04    height
+ 0.91    radius
+175      texture
+%
+%    NECK
+9               Natts
+14.17   locX
+  0.00  locY
+  6.21  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.52    height
+ 2.59    radius
+174      texture
+%
+%    HEAD
+9               Natts
+16.93   locX
+  0.00  locY
+  6.21  locZ
+ 1.00   axisX
+  0.07  axisY
+  0.00  axisZ
+11.54    height
+ 2.76    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-16.21  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.95  axisY
+  0.44  axisZ
+ 6.61    height
+ 0.31    radius
+179      texture
+%
+%                       ------------ A Horse ------------
+% created with 47743
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+52.60    height
+12.91    radius
+176      texture
+%
+%    LEG1
+9               Natts
+26.30   locX
+ 12.91  locY
+ -32.73 locZ
+ 0.20   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.63    height
+ 2.35    radius
+174      texture
+%
+%    LEG2
+9               Natts
+26.30   locX
+ -12.91 locY
+ -32.73 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.63    height
+ 2.97    radius
+178      texture
+%
+%    LEG3
+9               Natts
+-26.30  locX
+ 12.91  locY
+ -32.73 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.63    height
+ 3.32    radius
+170      texture
+%
+%    LEG4
+9               Natts
+-26.30  locX
+ -12.91 locY
+ -32.73 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+39.63    height
+ 2.96    radius
+174      texture
+%
+%    NECK
+9               Natts
+31.35   locX
+  0.00  locY
+ 17.96  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.28    height
+ 5.92    radius
+173      texture
+%
+%    HEAD
+9               Natts
+36.40   locX
+  0.00  locY
+ 23.01  locZ
+ 1.00   axisX
+ -0.19  axisY
+  0.00  axisZ
+18.93    height
+ 5.04    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-23.75  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.85  axisY
+ -0.41  axisZ
+28.85    height
+ 1.41    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 5215
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.61    height
+ 6.58    radius
+174      texture
+%
+%    LEG1
+9               Natts
+12.80   locX
+  6.58  locY
+ -11.97 locZ
+ 0.09   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.77    height
+ 1.01    radius
+175      texture
+%
+%    LEG2
+9               Natts
+12.80   locX
+ -6.58  locY
+ -11.97 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.77    height
+ 0.99    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-12.80  locX
+  6.58  locY
+ -11.97 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.77    height
+ 0.83    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-12.80  locX
+ -6.58  locY
+ -11.97 locZ
+ 0.65   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.77    height
+ 0.94    radius
+175      texture
+%
+%    NECK
+9               Natts
+15.60   locX
+  0.00  locY
+  6.58  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.59    height
+ 2.82    radius
+170      texture
+%
+%    HEAD
+9               Natts
+18.39   locX
+  0.00  locY
+  6.58  locZ
+ 1.00   axisX
+ -0.48  axisY
+  0.00  axisZ
+10.77    height
+ 3.05    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-18.79  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.05  axisY
+ -0.06  axisZ
+ 6.82    height
+ 0.30    radius
+179      texture
+%
+%                       ------------ A Horse ------------
+% created with 46895
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.95    height
+10.20    radius
+179      texture
+%
+%    LEG1
+9               Natts
+27.47   locX
+ 10.20  locY
+ -28.78 locZ
+ 0.02   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.16    height
+ 2.95    radius
+172      texture
+%
+%    LEG2
+9               Natts
+27.47   locX
+ -10.20 locY
+ -28.78 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.16    height
+ 2.86    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-27.47  locX
+ 10.20  locY
+ -28.78 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.16    height
+ 2.89    radius
+177      texture
+%
+%    LEG4
+9               Natts
+-27.47  locX
+ -10.20 locY
+ -28.78 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.16    height
+ 2.85    radius
+170      texture
+%
+%    NECK
+9               Natts
+32.46   locX
+  0.00  locY
+ 15.18  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.09    height
+ 5.83    radius
+173      texture
+%
+%    HEAD
+9               Natts
+37.44   locX
+  0.00  locY
+ 20.16  locZ
+ 1.00   axisX
+ -1.00  axisY
+  0.00  axisZ
+20.25    height
+ 4.64    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-26.14  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.19  axisY
+ -0.14  axisZ
+28.81    height
+ 1.79    radius
+173      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 62904
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+65.17    height
+16.64    radius
+173      texture
+%
+%    LEG1
+9               Natts
+32.58   locX
+ 16.64  locY
+ -49.59 locZ
+ 0.32   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.90    height
+ 3.65    radius
+172      texture
+%
+%    LEG2
+9               Natts
+32.58   locX
+ -16.64 locY
+ -49.59 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.90    height
+ 3.51    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-32.58  locX
+ 16.64  locY
+ -49.59 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.90    height
+ 2.91    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-32.58  locX
+ -16.64 locY
+ -49.59 locZ
+ 0.25   axisX
+  0.00  axisY
+ -1.00  axisZ
+65.90    height
+ 3.67    radius
+171      texture
+%
+%    NECK
+9               Natts
+50.93   locX
+  0.00  locY
+ 34.99  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+51.89    height
+ 5.84    radius
+174      texture
+%
+%    HEAD
+9               Natts
+69.28   locX
+  0.00  locY
+ 53.34  locZ
+ 1.00   axisX
+ -0.50  axisY
+  0.00  axisZ
+19.36    height
+ 4.60    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-43.76  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.01  axisY
+ -0.94  axisZ
+21.40    height
+ 0.75    radius
+174      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 53403
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+63.90    height
+14.46    radius
+175      texture
+%
+%    LEG1
+9               Natts
+31.95   locX
+ 14.46  locY
+ -47.88 locZ
+ 0.27   axisX
+  0.00  axisY
+ -1.00  axisZ
+66.83    height
+ 2.99    radius
+175      texture
+%
+%    LEG2
+9               Natts
+31.95   locX
+ -14.46 locY
+ -47.88 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+66.83    height
+ 2.79    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-31.95  locX
+ 14.46  locY
+ -47.88 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+66.83    height
+ 2.47    radius
+176      texture
+%
+%    LEG4
+9               Natts
+-31.95  locX
+ -14.46 locY
+ -47.88 locZ
+ 0.28   axisX
+  0.00  axisY
+ -1.00  axisZ
+66.83    height
+ 3.07    radius
+175      texture
+%
+%    NECK
+9               Natts
+49.29   locX
+  0.00  locY
+ 31.80  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+49.03    height
+ 7.47    radius
+172      texture
+%
+%    HEAD
+9               Natts
+66.62   locX
+  0.00  locY
+ 49.14  locZ
+ 1.00   axisX
+  0.03  axisY
+  0.00  axisZ
+19.88    height
+ 4.41    radius
+176      texture
+%
+%    TAIL
+9               Natts
+-41.06  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.22  axisY
+ -0.68  axisZ
+22.84    height
+ 0.72    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 13081
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+25.34    height
+ 6.06    radius
+175      texture
+%
+%    LEG1
+9               Natts
+12.67   locX
+  6.06  locY
+ -12.26 locZ
+ 0.44   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.40    height
+ 0.96    radius
+174      texture
+%
+%    LEG2
+9               Natts
+12.67   locX
+ -6.06  locY
+ -12.26 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.40    height
+ 0.86    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-12.67  locX
+  6.06  locY
+ -12.26 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.40    height
+ 0.93    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-12.67  locX
+ -6.06  locY
+ -12.26 locZ
+ 0.29   axisX
+  0.00  axisY
+ -1.00  axisZ
+12.40    height
+ 1.04    radius
+176      texture
+%
+%    NECK
+9               Natts
+15.35   locX
+  0.00  locY
+  6.06  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.35    height
+ 2.18    radius
+173      texture
+%
+%    HEAD
+9               Natts
+18.02   locX
+  0.00  locY
+  6.06  locZ
+ 1.00   axisX
+  0.49  axisY
+  0.00  axisZ
+12.67    height
+ 3.00    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-19.14  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.17  axisY
+  0.10  axisZ
+ 6.20    height
+ 0.29    radius
+175      texture
+%
+%                       ------------ A Dog ------------
+% created with 12113
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+24.71    height
+ 6.67    radius
+172      texture
+%
+%    LEG1
+9               Natts
+12.36   locX
+  6.67  locY
+ -11.99 locZ
+ 0.55   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.64    height
+ 0.98    radius
+171      texture
+%
+%    LEG2
+9               Natts
+12.36   locX
+ -6.67  locY
+ -11.99 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.64    height
+ 1.02    radius
+173      texture
+%
+%    LEG3
+9               Natts
+-12.36  locX
+  6.67  locY
+ -11.99 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.64    height
+ 1.03    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-12.36  locX
+ -6.67  locY
+ -11.99 locZ
+ 0.36   axisX
+  0.00  axisY
+ -1.00  axisZ
+10.64    height
+ 0.86    radius
+175      texture
+%
+%    NECK
+9               Natts
+15.25   locX
+  0.00  locY
+  6.67  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.79    height
+ 2.58    radius
+173      texture
+%
+%    HEAD
+9               Natts
+18.14   locX
+  0.00  locY
+  6.67  locZ
+ 1.00   axisX
+  0.54  axisY
+  0.00  axisZ
+10.07    height
+ 3.05    radius
+175      texture
+%
+%    TAIL
+9               Natts
+-18.09  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.87  axisY
+  0.27  axisZ
+ 6.62    height
+ 0.27    radius
+174      texture
+%
+%                       ------------ A Cat ------------
+% created with 17993
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+17.87    height
+ 3.77    radius
+172      texture
+%
+%    LEG1
+9               Natts
+ 8.94   locX
+  3.77  locY
+ -7.14  locZ
+ 0.39   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.75    height
+ 0.48    radius
+176      texture
+%
+%    LEG2
+9               Natts
+ 8.94   locX
+ -3.77  locY
+ -7.14  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.75    height
+ 0.63    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-8.94   locX
+  3.77  locY
+ -7.14  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.75    height
+ 0.57    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-8.94   locX
+ -3.77  locY
+ -7.14  locZ
+ 0.67   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.75    height
+ 0.57    radius
+173      texture
+%
+%    NECK
+9               Natts
+10.80   locX
+  0.00  locY
+  3.77  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.72    height
+ 2.08    radius
+174      texture
+%
+%    HEAD
+9               Natts
+12.66   locX
+  0.00  locY
+  3.77  locZ
+ 1.00   axisX
+  0.35  axisY
+  0.00  axisZ
+ 3.81    height
+ 2.15    radius
+172      texture
+%
+%    TAIL
+9               Natts
+-2.28   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.14  axisY
+  0.10  axisZ
+15.59    height
+ 0.52    radius
+174      texture
+%
+%                       ------------ A Dog ------------
+% created with 691
+%
+D       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+26.36    height
+ 6.74    radius
+174      texture
+%
+%    LEG1
+9               Natts
+13.18   locX
+  6.74  locY
+ -13.66 locZ
+ 0.48   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.83    height
+ 0.89    radius
+170      texture
+%
+%    LEG2
+9               Natts
+13.18   locX
+ -6.74  locY
+ -13.66 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.83    height
+ 0.98    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-13.18  locX
+  6.74  locY
+ -13.66 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.83    height
+ 0.81    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-13.18  locX
+ -6.74  locY
+ -13.66 locZ
+ 0.85   axisX
+  0.00  axisY
+ -1.00  axisZ
+13.83    height
+ 1.01    radius
+174      texture
+%
+%    NECK
+9               Natts
+15.99   locX
+  0.00  locY
+  6.74  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 5.63    height
+ 2.57    radius
+172      texture
+%
+%    HEAD
+9               Natts
+18.81   locX
+  0.00  locY
+  6.74  locZ
+ 1.00   axisX
+  0.43  axisY
+  0.00  axisZ
+11.85    height
+ 3.19    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-18.94  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.19  axisY
+ -0.86  axisZ
+ 7.42    height
+ 0.34    radius
+177      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 53252
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+62.71    height
+15.19    radius
+175      texture
+%
+%    LEG1
+9               Natts
+31.35   locX
+ 15.19  locY
+ -46.73 locZ
+ 0.16   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.07    height
+ 3.13    radius
+174      texture
+%
+%    LEG2
+9               Natts
+31.35   locX
+ -15.19 locY
+ -46.73 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.07    height
+ 2.94    radius
+179      texture
+%
+%    LEG3
+9               Natts
+-31.35  locX
+ 15.19  locY
+ -46.73 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.07    height
+ 2.88    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-31.35  locX
+ -15.19 locY
+ -46.73 locZ
+ 0.34   axisX
+  0.00  axisY
+ -1.00  axisZ
+63.07    height
+ 3.48    radius
+174      texture
+%
+%    NECK
+9               Natts
+49.34   locX
+  0.00  locY
+ 33.18  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+50.88    height
+ 6.92    radius
+179      texture
+%
+%    HEAD
+9               Natts
+67.33   locX
+  0.00  locY
+ 51.17  locZ
+ 1.00   axisX
+  0.08  axisY
+  0.00  axisZ
+21.32    height
+ 4.49    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-40.50  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.98  axisY
+ -0.41  axisZ
+22.21    height
+ 0.74    radius
+178      texture
+%
+%                       ------------ A Cat ------------
+% created with 17248
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+21.52    height
+ 3.32    radius
+172      texture
+%
+%    LEG1
+9               Natts
+10.76   locX
+  3.32  locY
+ -5.96  locZ
+ 0.90   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.28    height
+ 0.54    radius
+172      texture
+%
+%    LEG2
+9               Natts
+10.76   locX
+ -3.32  locY
+ -5.96  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.28    height
+ 0.58    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-10.76  locX
+  3.32  locY
+ -5.96  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.28    height
+ 0.62    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-10.76  locX
+ -3.32  locY
+ -5.96  locZ
+ 0.55   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.28    height
+ 0.53    radius
+176      texture
+%
+%    NECK
+9               Natts
+12.10   locX
+  0.00  locY
+  3.32  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.69    height
+ 1.63    radius
+170      texture
+%
+%    HEAD
+9               Natts
+13.45   locX
+  0.00  locY
+  3.32  locZ
+ 1.00   axisX
+  0.19  axisY
+  0.00  axisZ
+ 3.94    height
+ 1.97    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-7.36   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.01  axisY
+  0.29  axisZ
+14.16    height
+ 0.57    radius
+174      texture
+%
+%                       ------------ A Cat ------------
+% created with 20382
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+21.29    height
+ 3.49    radius
+175      texture
+%
+%    LEG1
+9               Natts
+10.64   locX
+  3.49  locY
+ -6.81  locZ
+ 0.43   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.64    height
+ 0.57    radius
+176      texture
+%
+%    LEG2
+9               Natts
+10.64   locX
+ -3.49  locY
+ -6.81  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.64    height
+ 0.61    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-10.64  locX
+  3.49  locY
+ -6.81  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.64    height
+ 0.62    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-10.64  locX
+ -3.49  locY
+ -6.81  locZ
+ 0.39   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 6.64    height
+ 0.60    radius
+175      texture
+%
+%    NECK
+9               Natts
+12.34   locX
+  0.00  locY
+  3.49  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 3.39    height
+ 1.98    radius
+175      texture
+%
+%    HEAD
+9               Natts
+14.03   locX
+  0.00  locY
+  3.49  locZ
+ 1.00   axisX
+  0.42  axisY
+  0.00  axisZ
+ 3.12    height
+ 1.59    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-5.08   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.37  axisY
+ -0.14  axisZ
+16.20    height
+ 0.48    radius
+176      texture
+%
+%                       ------------ A Horse ------------
+% created with 41967
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+54.51    height
+12.07    radius
+175      texture
+%
+%    LEG1
+9               Natts
+27.25   locX
+ 12.07  locY
+ -30.58 locZ
+ 0.28   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.02    height
+ 2.13    radius
+175      texture
+%
+%    LEG2
+9               Natts
+27.25   locX
+ -12.07 locY
+ -30.58 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.02    height
+ 2.70    radius
+177      texture
+%
+%    LEG3
+9               Natts
+-27.25  locX
+ 12.07  locY
+ -30.58 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.02    height
+ 2.95    radius
+172      texture
+%
+%    LEG4
+9               Natts
+-27.25  locX
+ -12.07 locY
+ -30.58 locZ
+ 0.12   axisX
+  0.00  axisY
+ -1.00  axisZ
+37.02    height
+ 2.76    radius
+176      texture
+%
+%    NECK
+9               Natts
+32.14   locX
+  0.00  locY
+ 16.96  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.82    height
+ 6.11    radius
+176      texture
+%
+%    HEAD
+9               Natts
+37.03   locX
+  0.00  locY
+ 21.85  locZ
+ 1.00   axisX
+  0.95  axisY
+  0.00  axisZ
+19.94    height
+ 4.62    radius
+174      texture
+%
+%    TAIL
+9               Natts
+-25.86  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.13  axisY
+ -0.11  axisZ
+28.65    height
+ 1.56    radius
+179      texture
+%
+%                       ------------ A Giraffe ------------
+% created with 63049
+%
+G       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+62.92    height
+14.81    radius
+176      texture
+%
+%    LEG1
+9               Natts
+31.46   locX
+ 14.81  locY
+ -45.69 locZ
+ 0.11   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.77    height
+ 3.42    radius
+175      texture
+%
+%    LEG2
+9               Natts
+31.46   locX
+ -14.81 locY
+ -45.69 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.77    height
+ 3.79    radius
+172      texture
+%
+%    LEG3
+9               Natts
+-31.46  locX
+ 14.81  locY
+ -45.69 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.77    height
+ 2.76    radius
+175      texture
+%
+%    LEG4
+9               Natts
+-31.46  locX
+ -14.81 locY
+ -45.69 locZ
+ 0.40   axisX
+  0.00  axisY
+ -1.00  axisZ
+61.77    height
+ 3.34    radius
+173      texture
+%
+%    NECK
+9               Natts
+49.88   locX
+  0.00  locY
+ 33.22  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+52.09    height
+ 6.92    radius
+176      texture
+%
+%    HEAD
+9               Natts
+68.30   locX
+  0.00  locY
+ 51.64  locZ
+ 1.00   axisX
+ -0.40  axisY
+  0.00  axisZ
+19.19    height
+ 4.43    radius
+170      texture
+%
+%    TAIL
+9               Natts
+-41.76  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.48  axisY
+ -0.52  axisZ
+21.16    height
+ 0.90    radius
+171      texture
+%
+%                       ------------ A Horse ------------
+% created with 36815
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.78    height
+10.91    radius
+176      texture
+%
+%    LEG1
+9               Natts
+27.89   locX
+ 10.91  locY
+ -31.61 locZ
+ 0.21   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.40    height
+ 2.02    radius
+175      texture
+%
+%    LEG2
+9               Natts
+27.89   locX
+ -10.91 locY
+ -31.61 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.40    height
+ 2.98    radius
+178      texture
+%
+%    LEG3
+9               Natts
+-27.89  locX
+ 10.91  locY
+ -31.61 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.40    height
+ 3.15    radius
+171      texture
+%
+%    LEG4
+9               Natts
+-27.89  locX
+ -10.91 locY
+ -31.61 locZ
+ 0.24   axisX
+  0.00  axisY
+ -1.00  axisZ
+41.40    height
+ 3.00    radius
+177      texture
+%
+%    NECK
+9               Natts
+32.85   locX
+  0.00  locY
+ 15.87  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+14.02    height
+ 6.53    radius
+175      texture
+%
+%    HEAD
+9               Natts
+37.81   locX
+  0.00  locY
+ 20.83  locZ
+ 1.00   axisX
+  0.99  axisY
+  0.00  axisZ
+20.53    height
+ 4.67    radius
+178      texture
+%
+%    TAIL
+9               Natts
+-26.96  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+  0.07  axisY
+ -0.55  axisZ
+28.81    height
+ 1.77    radius
+175      texture
+%
+%                       ------------ A Horse ------------
+% created with 36390
+%
+H       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+55.07    height
+11.88    radius
+176      texture
+%
+%    LEG1
+9               Natts
+27.54   locX
+ 11.88  locY
+ -32.14 locZ
+ 0.30   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.53    height
+ 2.38    radius
+174      texture
+%
+%    LEG2
+9               Natts
+27.54   locX
+ -11.88 locY
+ -32.14 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.53    height
+ 2.81    radius
+174      texture
+%
+%    LEG3
+9               Natts
+-27.54  locX
+ 11.88  locY
+ -32.14 locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.53    height
+ 3.14    radius
+174      texture
+%
+%    LEG4
+9               Natts
+-27.54  locX
+ -11.88 locY
+ -32.14 locZ
+ 0.26   axisX
+  0.00  axisY
+ -1.00  axisZ
+40.53    height
+ 2.13    radius
+177      texture
+%
+%    NECK
+9               Natts
+32.26   locX
+  0.00  locY
+ 16.60  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+13.35    height
+ 5.82    radius
+174      texture
+%
+%    HEAD
+9               Natts
+36.98   locX
+  0.00  locY
+ 21.32  locZ
+ 1.00   axisX
+  0.94  axisY
+  0.00  axisZ
+20.38    height
+ 5.16    radius
+177      texture
+%
+%    TAIL
+9               Natts
+-27.22  locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.01  axisY
+ -0.33  axisZ
+27.85    height
+ 1.47    radius
+177      texture
+%
+%                       ------------ A Cat ------------
+% created with 19473
+%
+C       name
+8       Ncomponents
+%    TORSO
+9               Natts
+ 0.00   locX
+  0.00  locY
+  0.00  locZ
+ 1.00   axisX
+  0.00  axisY
+  0.00  axisZ
+18.89    height
+ 3.52    radius
+176      texture
+%
+%    LEG1
+9               Natts
+ 9.45   locX
+  3.52  locY
+ -6.32  locZ
+ 0.41   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.61    height
+ 0.47    radius
+170      texture
+%
+%    LEG2
+9               Natts
+ 9.45   locX
+ -3.52  locY
+ -6.32  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.61    height
+ 0.75    radius
+175      texture
+%
+%    LEG3
+9               Natts
+-9.45   locX
+  3.52  locY
+ -6.32  locZ
+ 0.00   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.61    height
+ 0.71    radius
+173      texture
+%
+%    LEG4
+9               Natts
+-9.45   locX
+ -3.52  locY
+ -6.32  locZ
+ 0.02   axisX
+  0.00  axisY
+ -1.00  axisZ
+ 5.61    height
+ 0.64    radius
+172      texture
+%
+%    NECK
+9               Natts
+10.79   locX
+  0.00  locY
+  3.52  locZ
+ 1.00   axisX
+  0.00  axisY
+  1.00  axisZ
+ 2.68    height
+ 2.14    radius
+174      texture
+%
+%    HEAD
+9               Natts
+12.13   locX
+  0.00  locY
+  3.52  locZ
+ 1.00   axisX
+ -0.12  axisY
+  0.00  axisZ
+ 3.96    height
+ 1.96    radius
+173      texture
+%
+%    TAIL
+9               Natts
+-4.74   locX
+  0.00  locY
+  0.00  locZ
+-1.00   axisX
+ -0.12  axisY
+ -0.74  axisZ
+14.16    height
+ 0.52    radius
+176      texture
+%

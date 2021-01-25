@@ -1,0 +1,24 @@
+Enter vector size (if input vector is x=(1,1,1,1), then size is 4):
+4
+Enter Input vector 1 (each value innew line):
+1
+1
+1
+1
+1
+1
+1
+1
+Enter Input vector 2:
+2
+2
+2
+2
+2
+2
+2
+2
+Cosine Similarity: 1.0
+Correlation Similarity: NaN
+Jaccard Similarity: 0.6666666666666666
+Euclidean Distance: 2.0
